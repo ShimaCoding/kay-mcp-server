@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.DS_Store
+
+# MCP/Strands
+.mcp/
+.mcp_cache/
+.mcp-strands/
+strands_cache/
+
+# strands-agents-toolsl
+agents_toolsl_cache/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Otros
+*.coverage
+.coverage
+htmlcov/
+
+# Test/Reports
+*.pytest_cache/
+.tox/
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MacOS
+.DS_Store
