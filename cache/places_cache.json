@@ -1,0 +1,281 @@
+{
+  "f38406c6c397f6fd7f18bd16a9cdc910": {
+    "data": {
+      "query": "tour astronómico",
+      "ubicacion": "Vicuña, Valle del Elqui",
+      "radio_km": 50,
+      "total_encontrados": 20,
+      "clasificacion": {
+        "competencia_directa": [
+          {
+            "place_id": "ChIJ3TRxU9LLkZYRXaO44gu08Co",
+            "name": "tour astronómico observatorio interactivo",
+            "address": "Parcela 36, ruta D 269, lote b28, 1701340 La Serena, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 5,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJq5GseeEakJYRnnqiCv6TWOg",
+            "name": "Elqui - Tour Observatorio Astro Elqui Experiencial",
+            "address": "Calle Esperanza 31. Diaguitas Vicuña, 1760000 Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.7,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJ_cvnm48ZkJYRxKJv5Y-Ks48",
+            "name": "Centro Astronomico Alfa Aldea",
+            "address": "Parcela 17, La, La Vinita, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.6,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJzQdMa-EakJYReaQDUQMzTiU",
+            "name": "Desde el Jardín Astronomía",
+            "address": "La Esperanza 92, Diaguitas Vicuña, 1760000 Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.9,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJvxQevIQBkJYRHUsNzcX-vEI",
+            "name": "Observatorio Galileo",
+            "address": "21280, D-485, Paihuano, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.9,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJ_b3MTCoakJYRv2pkmbeUgbg",
+            "name": "Office Mamalluca Observatory",
+            "address": "San Martín 275, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.4,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJB_CRrSjKkZYRCyFiKRn0FnM",
+            "name": "Tour Observatorio Mamalluca",
+            "address": "Av. del Mar 4400, 1711019 La Serena, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.4,
+            "types": [
+              "travel_agency",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJ2SegRwAbkJYRx9kNHWJaDA0",
+            "name": "Tour Astronómico Valle del Elqui Benjatelescopio",
+            "address": "2857+HM, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 5,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJjfJODKEbkJYR2N4ndMwiuqw",
+            "name": "Centro Astronómico Omega",
+            "address": "Estancia casa blanca s/n, lote 14, 1760000 Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.8,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJg4v9ckbWj5YRr9o2R359x6U",
+            "name": "Collowara Tourism Observatory",
+            "address": "ruta d447, Andacollo, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.6,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJI4VF-fAfkJYRlWMIPkPU2DY",
+            "name": "Cerro Tololo Inter-American Observatory",
+            "address": "Cerro Tololo, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.8,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJ6cyoPKobkJYRx5p-02cDUlc",
+            "name": "Mamalluca Observatory",
+            "address": "D-359, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.5,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJiVEQNSwakJYR4N62E0rewcE",
+            "name": "Observatorio del Pangue - Deep Sky South",
+            "address": "Ruta D-445 Vicuña a Hurtado, km 17, Chile",
+            "website": "No disponible",
+            "rating": 4.9,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJTVXMlf4FkJYRZr0A2tWB6_Y",
+            "name": "Observatorio Solaris",
+            "address": "Sector Río Claro - Hijuelas 1, 2, 3, 4 y 5, Rivadavia, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.9,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJw-VnqIobkJYRIUqbzd2j6l0",
+            "name": "COLLASUYO ASTRONÓMICO. Astroturismo Valle de Elqui",
+            "address": "Navarino 241, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 5,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJ9SGSgqkBkJYRBX89n-cbHBg",
+            "name": "Observatorio Migrantes",
+            "address": "30.1313774, -70.5119591 VF9Q+C6 El Aparejito, 1770000 Paihuano, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 5,
+            "types": [
+              "tourist_attraction",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJ_bE9JR7Wj5YR0flU8lEQKMU",
+            "name": "CENTRO DE OBSERVACION ASTRONOMÍCA MACHUKUNA ANDACOLLO",
+            "address": "Andacollo, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.8,
+            "types": [
+              "travel_agency",
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJd7hxmmnhj5YR8NgV2pwDA2U",
+            "name": "Southern Astrophysical Research Telescope",
+            "address": "Cerro Pachón, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 5,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          },
+          {
+            "place_id": "ChIJqeH5xF_KkZYRxD1dCaTEYRo",
+            "name": "Gemini South Observatory",
+            "address": "Alberto Arenas Carvajal, La Serena, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.9,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_directa"
+          }
+        ],
+        "competencia_indirecta": [
+          {
+            "place_id": "ChIJzYJ119gakJYRHIfC6YnHVA8",
+            "name": "Amatista Travels Stargazing",
+            "address": "Diaguitas, Vicuña, Coquimbo, Chile",
+            "website": "No disponible",
+            "rating": 4.7,
+            "types": [
+              "point_of_interest",
+              "establishment"
+            ],
+            "category": "competencia_indirecta"
+          }
+        ],
+        "colaboradores_potenciales": []
+      },
+      "resumen": {
+        "competencia_directa": 19,
+        "competencia_indirecta": 1,
+        "colaboradores_potenciales": 0
+      },
+      "fuente": "google_places_api",
+      "coordenadas_busqueda": {
+        "lat": -30.0326781,
+        "lng": -70.70807359999999
+      }
+    },
+    "timestamp": "2025-09-21T03:05:09.378733",
+    "query": "tour astronómico",
+    "ubicacion": "Vicuña, Valle del Elqui",
+    "radio_km": 50
+  }
+}

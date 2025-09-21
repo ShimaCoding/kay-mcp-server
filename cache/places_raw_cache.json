@@ -1,0 +1,990 @@
+{
+  "f38406c6c397f6fd7f18bd16a9cdc910": {
+    "data": {
+      "html_attributions": [],
+      "next_page_token": "AciIO2eDVW_iRjQ3vBOewQA6PSZWBchpIcjw1LisrbjlFRi_4qxp1M-yP-fkgdQ_unfh863OYJ0NAz09v7Gxj39OfPztbFYi_iCY-3Mz_WHmV2ZQ5wi5oRQTKfuHATFK97H9yX4RpxqLw7ueRhR4lbvUEZfe3pytqqNQG6RfV1mBx8tvV36qf6utzoZ6TueceZpfSu4JziHixZBd6g6K2Y9H-ocvnWbkywDJlJGIxRwb5PD-38UEOyKm2OPpHNd1nL7a6teZN9xrX3Tl-QXIXeJ-nyNjWz3ySG-18GcnS8yoK0lDnSw-hVgQn8TSaqGrVIss0y1nbmbjEjmEJKUGTY_nmy4Q9AfXjlBJueZp4BRosAFRTWfzREsF2ED4GdoL9eebBzTwCwhD2jBsvHz42I0Ws8SIU8AspVtBTiGJ2-tuX66USpW7rtDyFMwHCBvzDR97fya_YfdI",
+      "results": [
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Parcela 36, ruta D 269, lote b28, 1701340 La Serena, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -29.9979956,
+              "lng": -71.0726506
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -29.99675902010728,
+                "lng": -71.07117997010728
+              },
+              "southwest": {
+                "lat": -29.99945867989273,
+                "lng": -71.07387962989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "tour astronómico observatorio interactivo",
+          "opening_hours": {
+            "open_now": true
+          },
+          "photos": [
+            {
+              "height": 500,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100173084412072947820\">tour astronómico observatorio interactivo</a>"
+              ],
+              "photo_reference": "AciIO2fjZO6YkfO539_xm852brek3T66pqpkyqeBZW3v67RBOzDmusqudXAw-PWDN2rRT-BhAP20Nx8A-YZzb74wS-kwngBbPsTh4r8GO867pr8GyWWMaT_xddEk7kE8Gquua-vTPKP2vG4rtnrri7nQXq70KWPh8NfA8qYjPry3ROojIbMf-jVUZDBnwBgYsTGzxlzvu7_0VH0NsPkKZQvNNPJU-6GGVAX0L9Nt35_AT-jF7L5qdIbh1OCBqXyjZsTwxXafoXFe9F3LecUJhFO9y_xao_X00Ve_UrYfzmJzG0v1szf2",
+              "width": 500
+            }
+          ],
+          "place_id": "ChIJ3TRxU9LLkZYRXaO44gu08Co",
+          "plus_code": {
+            "compound_code": "2W2G+RW La Serena",
+            "global_code": "572C2W2G+RW"
+          },
+          "rating": 5,
+          "reference": "ChIJ3TRxU9LLkZYRXaO44gu08Co",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 28
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Calle Esperanza 31. Diaguitas Vicuña, 1760000 Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.0248027,
+              "lng": -70.650954
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.02350942010728,
+                "lng": -70.64959462010728
+              },
+              "southwest": {
+                "lat": -30.02620907989272,
+                "lng": -70.65229427989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Elqui - Tour Observatorio Astro Elqui Experiencial",
+          "opening_hours": {
+            "open_now": true
+          },
+          "photos": [
+            {
+              "height": 3096,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111758955272676582135\">Mauricio Jiménez</a>"
+              ],
+              "photo_reference": "AciIO2eJXXSF3PHNTGz3vfH0yRwnj43eJeN98cF-wp-mYsCG0TqT9NINEmfwDGNgA2qZyH_5gpi15yu3JdCxIWzO_Z0Wecw1UA8p4zhqZw3xlJexmRih69tKRRVvobK_jfWM5dUwxTDyvH8kTaktYpGSmdPcRdq70YJYCKLa98XmUBQFl3a6IhrCq1Vm8JSOgBVnnc8AsvhENksJJyqH7GPd8RY6xu95MGHcw1yVZZmcEL1NV5NE8YuTp8eUn_tksPHuamnd3aEgax33gx7MaqdVAdbUkA-uo1OINiCQHJ84vW6nvS1TmZgh118FHZNI4niG0lN4G0sb2ynIK6ywwYGPBVUA1YJ_TEexTVtCDSkpgN1kiRQi1MO03fT9MaS6CRR_dnus-6ZKVVU7tQG_pKk0xe4j5jUsOephgkOYA11ML3CWA4Y5Dzq3A4Xaewf8oVZcsLtC84TlATZMPiyzmA1p2chWCY9j01n5uGWWekjmS_ihfRXx-xwY0Xy39sk1sLoLhK-WeIpEuLUcmyjqLFbyJIE-sKix4kfm0Gj-MiFkQDyHC22tkeoZ6yVaBb-8jsTMm4M5wqJw",
+              "width": 4128
+            }
+          ],
+          "place_id": "ChIJq5GseeEakJYRnnqiCv6TWOg",
+          "plus_code": {
+            "compound_code": "X8GX+3J Diaguitas, Vicuña",
+            "global_code": "47XFX8GX+3J"
+          },
+          "rating": 4.7,
+          "reference": "ChIJq5GseeEakJYRnnqiCv6TWOg",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 225
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Parcela 17, La, La Vinita, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.02687,
+              "lng": -70.7262224
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.02555252010728,
+                "lng": -70.72486787010727
+              },
+              "southwest": {
+                "lat": -30.02825217989272,
+                "lng": -70.72756752989272
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#13B5C7",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Centro Astronomico Alfa Aldea",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 2976,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116514259507745605750\">Sergio Andres Herrmann Cortes</a>"
+              ],
+              "photo_reference": "AciIO2fiXR1yMOkMjPdyhpho8QVqjUENfTvoVDiWQip3xT7Xw1Bi2Xw4HEATDTwSp5jryEAZxmw2hv6jDYIJNH3WjMrpODNlpF_72RrhrSaneVluWt81RGJV5iwZvN-YD8YTj6H_EVPBUvP4T-bFaT3YExEbijbqtPdYBvZ7lwNlM11zUaZRLJdfxNzNX31IQDWOZoVosNy-_QXy5R4oU-J3JstVzpt5jaSRQzdKRw0qMxDaW6ScGy81cBBCj-y7eTjCzuZ6tYvt6d5okj3Pd6x2o5t7titzHbI3Olnj6ZAvP-NkN5T-9sxq2IKVlK38ihm7r5W9IVXZxu_YNt--CD_X5B3j6DqKJDU_tgfN4xKXUOxTextuVr7mqdoDRwXC8jm73fBKJ6elONoF-0MYLG6JMqv_tcQX4mvWXqVfE9-0CEwCYZF23DOR5lfatNRS77YyLeI5lOGJxCSeLfDkJhNkKNuSN7PvYpP7xuOANZSpbXrNF7vYc8Z1BUmWBK1JVrlf_Wbdopg-7C5SI1-e5Bw0ug0nm6eckO3_AkwQ520MZKJM6xktLnxh2AFjUKYpqUDbhc-uVOjL",
+              "width": 3968
+            }
+          ],
+          "place_id": "ChIJ_cvnm48ZkJYRxKJv5Y-Ks48",
+          "plus_code": {
+            "compound_code": "X7FF+7G Vicuña",
+            "global_code": "47XFX7FF+7G"
+          },
+          "rating": 4.6,
+          "reference": "ChIJ_cvnm48ZkJYRxKJv5Y-Ks48",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 582
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "La Esperanza 92, Diaguitas Vicuña, 1760000 Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.0235924,
+              "lng": -70.6499406
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.02225537010727,
+                "lng": -70.64866302010728
+              },
+              "southwest": {
+                "lat": -30.02495502989272,
+                "lng": -70.65136267989271
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Desde el Jardín Astronomía",
+          "opening_hours": {
+            "open_now": true
+          },
+          "photos": [
+            {
+              "height": 6960,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117380769732894386409\">Luis Hernandez Navarrete</a>"
+              ],
+              "photo_reference": "AciIO2dpYTm28VCS6NK63WGZPN8FE6uOOsi3pFcbt5NklPeyobcVIbzyY2gNiH9WpyGms4VjTmpXnDhSricWf0LxjbMBaOQiugWWhOtyw5bcD10EOucddyXlnRWrdUI2PfX8lIAWl_YmEKVL7WAqZsFJEZhdf3TUGUGZt94L5oE3YRChkMYRjEnyaVVPHxPHNIONgeeEjob2h6301NxdyEinDHSbDgLEd2VtZ5IHmY_lGn9SkRSLnk2A5l28jTofizw-gqA1W7uOeVJKooW6BYm3tThHr0rQL1u78WFSFh-6zzGTFojiGVn5cRIOPlYA7IyPLWSKWnl9RXjdcp_kKdx3nrkfSVWWmM0a8WSusUMLASX0_Vyn1Z9JXGaX6H1kmlfhyWoN7K7EKZug-LIUNCOB7auU0Ztqo6Z9TmaJ0RY_Sdvc2r46s0ZoCQkk_UKmFiUEGHDLjSWGbcpBxxhqTQoEpWptqU4zkh4evPAGq6rf0bVA8sZyNTsUCCFEUXCUcLbcFM6U7hshnDvalfLjUGn7jvbBziAEYMQXeGeU6Ax5FRjMSALgmPeTP18FdUoEp3R7uBLEmapqp_nXZw",
+              "width": 4640
+            }
+          ],
+          "place_id": "ChIJzQdMa-EakJYReaQDUQMzTiU",
+          "plus_code": {
+            "compound_code": "X9G2+H2 Diaguitas, Vicuña",
+            "global_code": "47XFX9G2+H2"
+          },
+          "rating": 4.9,
+          "reference": "ChIJzQdMa-EakJYReaQDUQMzTiU",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 114
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "21280, D-485, Paihuano, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.1280009,
+              "lng": -70.4962856
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.12665237010728,
+                "lng": -70.49492952010726
+              },
+              "southwest": {
+                "lat": -30.12935202989272,
+                "lng": -70.49762917989271
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Observatorio Galileo",
+          "opening_hours": {
+            "open_now": true
+          },
+          "photos": [
+            {
+              "height": 9000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117593936913737032077\">Cristian Pulido</a>"
+              ],
+              "photo_reference": "AciIO2cW3MGKsDNP03_AYbpByrv3HeUMfR1FWNs457vA7xu_RI2J3VZV2rc5-43DPKbLoAvVM3PL7ffEN8aG9h47OI_ookI7iXhGGVXvHbzAzn1y9J8eRBsOfr8joPo-WJ-ZxUac8T3wxLhTBUU_cdrkxMlb4RMHE6lIZIMUoUx82Q_1W9dFc7bIx4XBMFHJ8URayBQMq8urPQIcttwmj8y5RtBy38QkO1rPP0oALJpYfm5XHGZB1hm5ehxHvSqD1vl4ziGq_lokz9phJUfyl1IWUd3sUvi7zz6fiqQQaRUnb-jfLS5j5ZHYrtaS3r2RUrp2MuVvBwJaPVDhsQSypUfmtQlUZpTJkptyDhhciPByoxlr-C5DXhSapwGN_mW6u2ojNUeeGW_nlVt01D2eMMKeaTiT10XNXnrVuGp7FLLnEAqE313kRkIIyvhBi0k4B80mDn7E09H4WIA-QP07e5yag8VTdrLkJQ70COQcuep3zmBju_3vpbSmErzVY0dOv6SxxIZjvRuajqMpm4FgGxujs-7b0VeZGA2lzx4amyM01gzgzXw1QyHWcwXHKu3jqmcgF9ll-XXj",
+              "width": 12000
+            }
+          ],
+          "place_id": "ChIJvxQevIQBkJYRHUsNzcX-vEI",
+          "plus_code": {
+            "compound_code": "VGC3+QF Paiguano",
+            "global_code": "47XFVGC3+QF"
+          },
+          "rating": 4.9,
+          "reference": "ChIJvxQevIQBkJYRHUsNzcX-vEI",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 49
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "San Martín 275, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.0337096,
+              "lng": -70.7135378
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.03236442010728,
+                "lng": -70.71213887010728
+              },
+              "southwest": {
+                "lat": -30.03506407989272,
+                "lng": -70.71483852989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Office Mamalluca Observatory",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 810,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102880018272432068104\">A Google User</a>"
+              ],
+              "photo_reference": "AciIO2cPkRlPqw3ZqWtH0yO1bcZKpPwHDhsMVyV5rQDuvVTNAKS75Rhljv-2tJQGxKf0OBZUhIFcNtkkKgb-eX4PXu32Vv2sz3Z0QTyToSbQyCYUiv4Kn2YUehj-4U63ubk76fmkyAL4hDe2drRW2llp9BbSykK6zFlrst-0mjWC5d7TdSAYL5MH5IWy7t6Ta3QW1lTQ1gyogkKDUm62ybh2UzNJmU-Fed20to9jVssAG7HKND6wpTQbDb97kyiuglKs1lyscLEn-adEtHGQtHvvVP3y_Hzm23Wx2JrJ2lM1zuCpEqRXhKc",
+              "width": 1440
+            }
+          ],
+          "place_id": "ChIJ_b3MTCoakJYRv2pkmbeUgbg",
+          "plus_code": {
+            "compound_code": "X78P+GH Vicuña",
+            "global_code": "47XFX78P+GH"
+          },
+          "rating": 4.4,
+          "reference": "ChIJ_b3MTCoakJYRv2pkmbeUgbg",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 3339
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Av. del Mar 4400, 1711019 La Serena, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -29.9333669,
+              "lng": -71.2816368
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -29.93197387010727,
+                "lng": -71.28038947010728
+              },
+              "southwest": {
+                "lat": -29.93467352989272,
+                "lng": -71.28308912989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Tour Observatorio Mamalluca",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104428140318258474320\">Tour Astronómico Mamalluca | SkyTour</a>"
+              ],
+              "photo_reference": "AciIO2eApCRK0Hhc-OBYdvIZ-tJ8eLWns3m4bhVSL2sYKyqkF4jlUPXB-uIn1jycC4DjIAKUPiUhtUXaNir0irV9sPHISD44HpLKSqMk5LtWgRfV0Sb0L8SnL2QyKyenfJmeQ6uyhJcLuU49zpglzCEL3BXx5hDsDs-eCQRvGpUQXOVV5dlh-U-qc0Ryw-IHU8fq_m3V4dkPAKWlNt1XgFlz_6gOHlmLZS8E17X3DTdF8ZGhvk9aE0L8BvTAEzJBdxPWAx0NHk2cLAzem-FekZm5VtNcrsGtrXVtdiDiZENyvK12G9lRxRQ",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJB_CRrSjKkZYRCyFiKRn0FnM",
+          "plus_code": {
+            "compound_code": "3P89+M8 La Serena",
+            "global_code": "572C3P89+M8"
+          },
+          "rating": 4.4,
+          "reference": "ChIJB_CRrSjKkZYRCyFiKRn0FnM",
+          "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 120
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "2857+HM, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.03325239999999,
+              "lng": -70.66459859999999
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.03183727010726,
+                "lng": -70.66323637010728
+              },
+              "southwest": {
+                "lat": -30.03453692989271,
+                "lng": -70.66593602989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#13B5C7",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Tour Astronómico Valle del Elqui Benjatelescopio",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 1264,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105706156262021013076\">Tour Astronómico Valle del Elqui Benjatelescopio</a>"
+              ],
+              "photo_reference": "AciIO2cZTGe-ITDq_TM50ec3mGuOdSGQ_6YvIlpiDHvb8dYx1T9-AE7axp_j0WK96rL_Jgld3TQBHJZ4C_DKydSXZk4M3ZaGBBHq_vCD_qS6EJB6vKYmv7EaBGlljeWUzHiu__MucNt4h9HfZJh6AAxuEkAJDQeYAuyojlRIYV3n_dk-9M9L2iQ38Y0GklTX4xINfEzQ5EXTCcVUtcI3gxbsyXYP2rkOkcgQIt_Jrp5oO5ftSiF2XEmERE0LrBLELewslm67YyBgOEbjzctFs_gC6YYOsZJJwg7NL7kY-Ts-uU5Medy7uGI",
+              "width": 900
+            }
+          ],
+          "place_id": "ChIJ2SegRwAbkJYRx9kNHWJaDA0",
+          "rating": 5,
+          "reference": "ChIJ2SegRwAbkJYRx9kNHWJaDA0",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 31
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Estancia casa blanca s/n, lote 14, 1760000 Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -29.9934307,
+              "lng": -70.687249
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -29.99206032010728,
+                "lng": -70.68590037010728
+              },
+              "southwest": {
+                "lat": -29.99475997989272,
+                "lng": -70.68860002989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Centro Astronómico Omega",
+          "opening_hours": {
+            "open_now": true
+          },
+          "photos": [
+            {
+              "height": 1488,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113776258417817372005\">Centro Astronómico Omega</a>"
+              ],
+              "photo_reference": "AciIO2euEBOjIwmQHzLLTX-fCTlUCCHzDgESpGSNBnAu93AJNRu1v4JdUTNeT1WgOh3SUAxf5eZSNniZICcxM3aS3WqR-dz4XHTfoRpn6y1UcfPW4hog6QxbCkieA3RyzLTYC7wK576Hb6XhMp_4G1bfMtjGobYPY_o92VM8DPp0HIeGVfZ9EOXBXAFQIHtj3d7EAgu01XXLyMiA92vfhvZybuxMmLriwgFdT0cLI-vUcoNXCp0ir6qoA8VjCymIr_E-SjZLs35eI-BA428DJhjesFde610cFx80cpr0sTWoKlb3mp7gBFo",
+              "width": 990
+            }
+          ],
+          "place_id": "ChIJjfJODKEbkJYR2N4ndMwiuqw",
+          "plus_code": {
+            "compound_code": "2847+J4 Vicuña",
+            "global_code": "572F2847+J4"
+          },
+          "rating": 4.8,
+          "reference": "ChIJjfJODKEbkJYR2N4ndMwiuqw",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 144
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Diaguitas, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.0231306,
+              "lng": -70.63846629999999
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.02179387010728,
+                "lng": -70.63711257010728
+              },
+              "southwest": {
+                "lat": -30.02449352989272,
+                "lng": -70.63981222989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Amatista Travels Stargazing",
+          "photos": [
+            {
+              "height": 2304,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116121311770709888328\">Amatista Observatory</a>"
+              ],
+              "photo_reference": "AciIO2dISEWNsRJpEvFPP4LpLhKHyZX5Rn7eWttK7vXpY0fUnIrS2BQkUCSwUSF98968skmGZqJ7gjbKcsr1jta4wWTrXw3wYmv9xWhSAWzbfhbIlPxVsT4jUChFFch-Csf8-GpEn-tv_tb3ywPPibHri9gJij_hzrKJDuDKbg2rBy7_hX9G_Kt0tMq6h_xR2GKdATBmUubkkGP-yQWse9z2utBw2CEoz-nA2qfgx0vxdaPgiRqw15x-oVJ72DvUfH98xXFsv4LgYGXCE373dp8Js_c-vWNl_00oHGX4PQlyt5hxFXnCWjY",
+              "width": 3456
+            }
+          ],
+          "place_id": "ChIJzYJ119gakJYRHIfC6YnHVA8",
+          "plus_code": {
+            "compound_code": "X9G6+PJ Diaguitas, Vicuña",
+            "global_code": "47XFX9G6+PJ"
+          },
+          "rating": 4.7,
+          "reference": "ChIJzYJ119gakJYRHIfC6YnHVA8",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 154
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "ruta d447, Andacollo, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.2495068,
+              "lng": -71.0634245
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.24820292010728,
+                "lng": -71.06203627010727
+              },
+              "southwest": {
+                "lat": -30.25090257989272,
+                "lng": -71.06473592989272
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Collowara Tourism Observatory",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 3840,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115737331592735163712\">Antonio Sanhueza Avendaño</a>"
+              ],
+              "photo_reference": "AciIO2f0x5zQM7sqygPQiXUfxtmh0VT3owT7ZEdpkUzJUx_qfb1n7yrYKxm_0gC0auJTrGfowKeFei1-3ME5VA68WlA9J-VCweCKOfU-QBNSNZevUgPyLEekTkNbsIBLlnNQDRE21mz2HUlN4C5bJTZhmFEDZuQtRWQB64ytQuyiJEE0-gqgBS_Kk_TH6eU66iB9hcU-OkH8RTvw8H6yHSxOeY8QwCgpneq0-XyYxCCycx0nDnF-oZXymzZhjMt1YYSkLs4SXKcquEF1HQkdgBBmjm-PauSdefJ9IWsj7hcAMbLvt_i2RiUYi-GrWmt7Vay_IHhPXtNBcxD8NejLxcDPdLtuwxzbzFhratWjUU82iiDtlag_pCwjWtCnIKafOTtDT7bExZxvCr2PkVHi8R7HdMxc18DV8ZsguWF2ezSjTYtI0oJaL9As1IXV5yo8edBfXjexWGoTFC71DBKe1usWyiuAQUxOL5bTnHJ3cBfxVNyCK2UXXyRx07RdpMCUj8OXKqEduCasAr7Wn9o8ldj-6soC_GVG6rMJqTvlOkgC_lUGGHqPB1Vcw63sN0jj2Edvi3ChLTg4",
+              "width": 5120
+            }
+          ],
+          "place_id": "ChIJg4v9ckbWj5YRr9o2R359x6U",
+          "plus_code": {
+            "compound_code": "QW2P+5J Andacollo",
+            "global_code": "47XCQW2P+5J"
+          },
+          "rating": 4.6,
+          "reference": "ChIJg4v9ckbWj5YRr9o2R359x6U",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 804
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Cerro Tololo, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.1696927,
+              "lng": -70.8064637
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.16844757010728,
+                "lng": -70.80488767010728
+              },
+              "southwest": {
+                "lat": -30.17114722989272,
+                "lng": -70.80758732989271
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Cerro Tololo Inter-American Observatory",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 3024,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114038046504522516037\">Sandra Concha</a>"
+              ],
+              "photo_reference": "AciIO2fL0tKBo9mJhKD9rOtllvkwTvvpScJ3wnWLoJKEd6rtfZKmuZmDMWfeQxYeDjUTFBStCXyHK2bhJjEHP5MSojlHgJtY-IeX2GXMV-SrA7RicVBGdHoZTYk-CqHIKILxfSrkV-4tYLqdJySBDGiWDSkYA4mkebysFa1l-b67J4Vbeg2Rbi-rbQAVarZ9xi13yN0e6gLk4NQK2oGkrSwGVTL72lxjCpOYyBW2dKI-_mG3GrXdt6G_czit9jNaoLbOLINJ80sn7SM9RSOU45P2TK6rgrfGZe2Q24NNVNMyg_eZ_hS8nIsJmW00UW3rlMRGujPvWwRlR8uZ4UjuxSonZ9ahkjuQoYUeOqnFSLgY3ysl402zmBjnETLXTgB_mz-9T-fPNr-stH9LtQupvujoP0SYx7HU2vgB3nKsInsszQJWL60HM6SrMB5O-idNvU5gEbvQxoryp9GbY6p0XO-7v_CBMoT53Vlr5bbUTOHZ-dPfzGBMQQpe-HbAGSdEXzcFXWSmMDiyHgorsRJ0Icwm-oqkeGYgyh81uZhFwx5OMMH6I5ekDCXt_4DH0PcL58ouysuPwkBtX0HIgA",
+              "width": 4032
+            }
+          ],
+          "place_id": "ChIJI4VF-fAfkJYRlWMIPkPU2DY",
+          "plus_code": {
+            "compound_code": "R5JV+4C Piedras Blancas, Río Hurtado",
+            "global_code": "47XFR5JV+4C"
+          },
+          "rating": 4.8,
+          "reference": "ChIJI4VF-fAfkJYRlWMIPkPU2DY",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 391
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "D-359, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -29.9899318,
+              "lng": -70.6852942
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -29.98884657010728,
+                "lng": -70.68386602010729
+              },
+              "southwest": {
+                "lat": -29.99154622989272,
+                "lng": -70.68656567989274
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Mamalluca Observatory",
+          "photos": [
+            {
+              "height": 4000,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102345358466168238512\">Oscar Sepúlveda</a>"
+              ],
+              "photo_reference": "AciIO2eAuHzKhiCl8Lmyx4XLwechKlote1huQzOidI0W1LvxURUkkagRbEfgyvd6NglhsVp-deSrplQCg1V8N1OsSGjp5go8M_Eu4HxcI5aQD5EUTkAI-SSY0z9bqwS-uRDIPAnfGVIJNC7cKvbC3gr_-UyL7HuO1rnbLBgsqEpB2oD7OQyOn07-s2epkjzP3LaC5WUZkNo3CnMuIiYdicTy1IUPJ2QfjaOl0wvgTvgkiJsndqOEdHiI7wPLrdl57RPgkLGID1voesk63QAfRxWbDoR7eYt-AlHjSyR5fcAjr3zsuIiTY767Di0-xrpSfgkx9o62pAi1aoQDqDi3OKY9xrZgj2DkePoyBI6GpTZmL8GrSF5kxHVt0bJHFDvcbBxe6zOf9Sdx3b5D6kadG8d3GKSj-XxToCKseYAbxWXZaTi8vlQ1FvZxDvZIiDsgHvpEtm1cW38-EE_PLCz2e_L96XGFlNM0CTgpc0Hj9zC8spLASftwUjBmcwo1eZYVf4EpsRcm_TvPwho015rrEv88weuoP_pp_wrDv0AJenvkn-qXqLHboQ3WYTWFP6dJTSgpgSRmRTid",
+              "width": 3000
+            }
+          ],
+          "place_id": "ChIJ6cyoPKobkJYRx5p-02cDUlc",
+          "plus_code": {
+            "compound_code": "2867+2V Vicuña",
+            "global_code": "572F2867+2V"
+          },
+          "rating": 4.5,
+          "reference": "ChIJ6cyoPKobkJYRx5p-02cDUlc",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 1824
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Ruta D-445 Vicuña a Hurtado, km 17, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.1428096,
+              "lng": -70.694193
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.14156617010728,
+                "lng": -70.69275142010727
+              },
+              "southwest": {
+                "lat": -30.14426582989273,
+                "lng": -70.69545107989272
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Observatorio del Pangue - Deep Sky South",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 2736,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115958945649103772530\">Observatorio del Pangue - Deep Sky South</a>"
+              ],
+              "photo_reference": "AciIO2fk0bD-ng5IM-VNRvdBWQjNrECn6z8M6kOzbln1S0WdLXKCWP3tACm0BNQz6sdwJ7h8UmgCzIP9i7wtm7bth_zJ_fCCMMg3HNb7OKx2VGHY5xclaIVCIGACcEyNuxDpqFtpTp7sOD2k0c5jXCFgyfq8D58BDhbhva3QFepGqwcvRrgIZA7jjiIKAV8yvPpeMSYGWxLBPhWQgv5ZoaOmi-pLwZPzBkz2hEvk-mm5IsKGkn1e876Qayow_hNDnJiVbh5Cf0Zg-VDdEcJHvXYqeViVywywyK_KwqPTdKfuCQ27OqtX4ps",
+              "width": 3648
+            }
+          ],
+          "place_id": "ChIJiVEQNSwakJYR4N62E0rewcE",
+          "plus_code": {
+            "compound_code": "V844+V8 Pangue, Vicuña",
+            "global_code": "47XFV844+V8"
+          },
+          "rating": 4.9,
+          "reference": "ChIJiVEQNSwakJYR4N62E0rewcE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 149
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Sector Río Claro - Hijuelas 1, 2, 3, 4 y 5, Rivadavia, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -29.9877453,
+              "lng": -70.5466539
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -29.98454865,
+                "lng": -70.54463347010727
+              },
+              "southwest": {
+                "lat": -29.98881085000001,
+                "lng": -70.5473331298927
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Observatorio Solaris",
+          "photos": [
+            {
+              "height": 650,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113150751382020348572\">Observatorio Solaris</a>"
+              ],
+              "photo_reference": "AciIO2cYqfSovWLZmU794W6aY8VfXQPcOWrByKm-xM7qJV8E4k_1mYjoyjCTUPqQ0LHyCe06DBxNwbVLSRuQkqS23bjV7y52Cg5rCDkuBLnr4_y0xpU2vXmG1VIJH0o28CnMV2u0P3i6e6jtlUREZJSoofP_d-lxlVmXQt3-MwJpkYbKIvJUm0l1KJaVf6_FvRF9b-D7q30AIT2seGv6Zm3Gz9aiHwdASfgwEfgOSSb7XR_8PGKS-3N1mrLNE2C9Vkk5uEmM3dB7zQFie31KaielJVATEt4O05vybsJWhjocyIq0vEzSdtI",
+              "width": 1280
+            }
+          ],
+          "place_id": "ChIJTVXMlf4FkJYRZr0A2tWB6_Y",
+          "plus_code": {
+            "compound_code": "2F63+W8 Rivadavia, Vicuña",
+            "global_code": "572F2F63+W8"
+          },
+          "rating": 4.9,
+          "reference": "ChIJTVXMlf4FkJYRZr0A2tWB6_Y",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 43
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Navarino 241, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.0434798,
+              "lng": -70.679371
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.04213682010728,
+                "lng": -70.67801852010729
+              },
+              "southwest": {
+                "lat": -30.04483647989272,
+                "lng": -70.68071817989272
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#13B5C7",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "COLLASUYO ASTRONÓMICO. Astroturismo Valle de Elqui",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 3455,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101114733954965796800\">COLLASUYO ASTRONÓMICO. Astroturismo Valle de Elqui</a>"
+              ],
+              "photo_reference": "AciIO2dBe3QWqLepE4HUVPg70kkiBG735_Pm6ZYBFqle4-rMYCdjAwLRZGKMVAwgrdH5wuCq8ro5-EkLYCCN3j-HXdeAo7j-uOCjjf0UlzMEM9KW0IXokiTF9d09mvEYBPgVLZHpPZloLcUNXuRhV_mBpKreFbIGVp0pE03BmgxuN5Lw8FDIlb7Xr8Hhw7sYgfMSeayRa4DvfU2j9CmIFFJ2ihrw6eBOs0wRlrOu1oGqoS-qIC-28HVQPRRBgRM8EZ0dDr29m_xUF8KonaFfqreScZRqIxaNP9TTLCXAfLOjxbG_kW3K",
+              "width": 5183
+            }
+          ],
+          "place_id": "ChIJw-VnqIobkJYRIUqbzd2j6l0",
+          "plus_code": {
+            "compound_code": "X84C+J7 Vicuña",
+            "global_code": "47XFX84C+J7"
+          },
+          "rating": 5,
+          "reference": "ChIJw-VnqIobkJYRIUqbzd2j6l0",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 14
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "30.1313774, -70.5119591 VF9Q+C6 El Aparejito, 1770000 Paihuano, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.1314375,
+              "lng": -70.5119375
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.13069799999999,
+                "lng": -70.51108742010729
+              },
+              "southwest": {
+                "lat": -30.13365600000001,
+                "lng": -70.51378707989272
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Observatorio Migrantes",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 540,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109507082431974790305\">Observatorio Migrantes</a>"
+              ],
+              "photo_reference": "AciIO2fc6Q_SLl4gtH7zZwzAfmBxH1-fGtbGdpYL93RByQTEQu2a2x0UL3MGYHhRXsYtVfp8pCPVvcGuXHY9EY9mv2oPF-ESffb74sMty7Ui-uCo33IkXyJRsU3ErE6nzmvKGNh7QaQ_Alr_7Yy48nTW7nNKBqyoVDvsw4SztkXZhw31yzIDPC4-n4fBrT8HwgWdVBeb1J5QUo9NhZRxV8UQXe76feDRQsehlQ4ULo-IwA1-daZ2Mj0m3rFyAUxvavp-WLOPSi-mYRZWXewOL008WxFg0SdkjpMJ8RCVFWvabYud4E7XB2w",
+              "width": 720
+            }
+          ],
+          "place_id": "ChIJ9SGSgqkBkJYRBX89n-cbHBg",
+          "plus_code": {
+            "compound_code": "VF9Q+C6 Paiguano",
+            "global_code": "47XFVF9Q+C6"
+          },
+          "rating": 5,
+          "reference": "ChIJ9SGSgqkBkJYRBX89n-cbHBg",
+          "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 71
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Andacollo, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.2247864,
+              "lng": -71.0753476
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.22346972010728,
+                "lng": -71.07391337010729
+              },
+              "southwest": {
+                "lat": -30.22616937989272,
+                "lng": -71.07661302989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "CENTRO DE OBSERVACION ASTRONOMÍCA MACHUKUNA ANDACOLLO",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 4128,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112862878138831001633\">A Google User</a>"
+              ],
+              "photo_reference": "AciIO2ckIz8qrU1UgxMJgzFoA1d1agI128qGY7-u_1ui-U39fq-LHvX2717czK1sPgfYPNhHlvocpWsaqoB7IiDQd_FzU9iqpLXh6qtwcLoZ_dHMcj74tgWLoduYejrlQ_bFe54d21NCrD8CyGVZ9K-afjYXWXEllgOEEhYPpKKrwm7hGLKaiE55KnKHY1ZwlAQqtttBMqH03ui9beteJa8tvFhVpfKe4upHEL6fY2n6s4UdhmaCh6EeWCYxff1KpqOCXrZP_zDndV4bhhzQJ6Fo7-mmyoSMxg9_MZVToOVcd7xheC7O90w",
+              "width": 3096
+            }
+          ],
+          "place_id": "ChIJ_bE9JR7Wj5YR0flU8lEQKMU",
+          "plus_code": {
+            "compound_code": "QWGF+3V Andacollo",
+            "global_code": "47XCQWGF+3V"
+          },
+          "rating": 4.8,
+          "reference": "ChIJ_bE9JR7Wj5YR0flU8lEQKMU",
+          "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 27
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Cerro Pachón, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.2378942,
+              "lng": -70.73369799999999
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.23666037010728,
+                "lng": -70.73241532010728
+              },
+              "southwest": {
+                "lat": -30.23936002989272,
+                "lng": -70.73511497989273
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Southern Astrophysical Research Telescope",
+          "opening_hours": {
+            "open_now": false
+          },
+          "photos": [
+            {
+              "height": 5184,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109996131587849540049\">Kristen</a>"
+              ],
+              "photo_reference": "AciIO2dhZes8yxUmOQ4jMcdfk2CoPTYD4922p31mLt0tlHvZT2--EjN6F8GnueRkb8o3RuciMOvlRyn24y5bmFiR8BKjMGH8rLed2b3nMNAE0MR65BprorPseBYXynGNOvvjIA4mc5kOgMlTQkoawVNNdXByo1130yRehSffMi8GSKeurqxpU2I_9-XZ-V0fQ6uxY__i63KLrQcIk2OTijPnoKxalG6He0Dr923NjRYS1hGxf0AWTV0kJL1pkud07bW-eSL8U1naFIGVOyDA9a6zeb_ZJN1RF9_buFJvtmhnicfqKFogEWFfWAdJORrcRlcB747Ggmj5NXLF7WDef2jMij3tAjRDIIy5sIUveZHM3riOmE2LxKPPNSw5SJi3362S89OnNKOukG3TrZMtEKOTgQcCGzjBQc-RzQIKcGGwqwXtH4mBHmcwfN9cjRvPmgab6CObm7HsrfHqTWCyor-KOGMk7SaAy2m8AZjV9toKY9H869w6KhW0Di-kmTsRnSJ8dsF6-zvIaszepJxQ_Y4FvAUe0r39gJ0UU8TLdpO-u0PAVLJUv1iuOIukbN6GTACzpCQ4HqmSk6i5nQ",
+              "width": 3456
+            }
+          ],
+          "place_id": "ChIJd7hxmmnhj5YR8NgV2pwDA2U",
+          "plus_code": {
+            "compound_code": "Q768+RG Piedras Blancas, Río Hurtado",
+            "global_code": "47XFQ768+RG"
+          },
+          "rating": 5,
+          "reference": "ChIJd7hxmmnhj5YR8NgV2pwDA2U",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 68
+        },
+        {
+          "business_status": "OPERATIONAL",
+          "formatted_address": "Alberto Arenas Carvajal, La Serena, Vicuña, Coquimbo, Chile",
+          "geometry": {
+            "location": {
+              "lat": -30.240829,
+              "lng": -70.73689499999999
+            },
+            "viewport": {
+              "northeast": {
+                "lat": -30.23963052010727,
+                "lng": -70.73553392010727
+              },
+              "southwest": {
+                "lat": -30.24233017989272,
+                "lng": -70.73823357989271
+              }
+            }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color": "#7B9EB0",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name": "Gemini South Observatory",
+          "photos": [
+            {
+              "height": 2304,
+              "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111469693879916338973\">Manuel Cortes M</a>"
+              ],
+              "photo_reference": "AciIO2cwDuhIl2sGH1YbG3IqcvRQUuifGEvCw1Psf-s01gaT7sncDiP7zV2otfINQI3G-kwyxPzRCoN0t9_kspkw728lJ6VfezSCCx3Fs2dOKl3y1aCNntoAf1qb-uOBtjZkoUdolOCV8MPVUJ6ILGQT5b6Tp9POFHdskWaBqYhkHUgIGdefjRurgsI7qjisU8POmOossNFX7i-KxBtn2LnSlm2GjF5s1Fwces06HluRlOVuCrjYMTItTm07iTTbnRNQJIJ_M1kLp7a8ut97CPnWIetiroVEdnuOxPqcWgfZIT4STjngOz3XrErozaGW-wTFKwaK-Zyoptho0nU53_dQuf8MniH8LkKJ-rYu3l0UholcQTQsFbPYiZvuPpkFarfD5aLhY0jwMElpmJudr69b77oeStKMO8xDpzqHmdeXZszzxfrBmFIFWX0IC24RH7EL4AIQDPW0snFwFFJSxtOoNnLt_RK1sq4jQtVm-cUNEt9pHv465Bjvwl1Mub_9U5NxXbk-MHGv_s9DpkSA3CZqvvsd5Ad2Ypn0SR80p3XomP0PpiZeVHxEhzlTfYugJ_XS3_OqBWjJzXSeWg",
+              "width": 4096
+            }
+          ],
+          "place_id": "ChIJqeH5xF_KkZYRxD1dCaTEYRo",
+          "plus_code": {
+            "compound_code": "Q757+M6 Piedras Blancas, Río Hurtado",
+            "global_code": "47XFQ757+M6"
+          },
+          "rating": 4.9,
+          "reference": "ChIJqeH5xF_KkZYRxD1dCaTEYRo",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "user_ratings_total": 51
+        }
+      ],
+      "status": "OK"
+    },
+    "timestamp": "2025-09-21T03:05:09.376531",
+    "query": "tour astronómico",
+    "ubicacion": "Vicuña, Valle del Elqui",
+    "radio_km": 50,
+    "api_source": "google_places_api"
+  }
+}

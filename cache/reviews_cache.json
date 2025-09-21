@@ -1,0 +1,1306 @@
+{
+  "ChIJ3TRxU9LLkZYRXaO44gu08Co": {
+    "data": {
+      "place_id": "ChIJ3TRxU9LLkZYRXaO44gu08Co",
+      "idioma": "es",
+      "nombre_lugar": "tour astronómico observatorio interactivo",
+      "total_reviews": 5,
+      "total_ratings": 28,
+      "rating_promedio": 5,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 3,
+          "negativo": 0,
+          "neutro": 2
+        },
+        "predominante": "positivo"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 5
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 3
+        },
+        {
+          "tema": "familia",
+          "menciones": 1
+        },
+        {
+          "tema": "didáctico",
+          "menciones": 1
+        },
+        {
+          "tema": "amable",
+          "menciones": 1
+        },
+        {
+          "tema": "recomendado",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Jorge un 7 explicándonos, se tomó su tiempo para que pudiéramos ver con el telescopio distintas nebulosas y llegamos ver...",
+          "rating": 5,
+          "autor": "Margaret Mota",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Les comento, Jorge es un aficionado de la astronomía en el cual si tu quieres ver planetas tales como Venus, Júpiter, sa...",
+          "rating": 5,
+          "autor": "Bastián Andrés Ríos Carmona",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Quiero recomendar la experiencia astronómica con Jorge. Mi familia y yo la pasamos increíble. Jorge tiene un conocimient...",
+          "rating": 5,
+          "autor": "Carlos Cano",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:06:18.746420"
+    },
+    "timestamp": "2025-09-21T03:06:18.746460",
+    "place_id": "ChIJ3TRxU9LLkZYRXaO44gu08Co"
+  },
+  "ChIJq5GseeEakJYRnnqiCv6TWOg": {
+    "data": {
+      "place_id": "ChIJq5GseeEakJYRnnqiCv6TWOg",
+      "idioma": "es",
+      "nombre_lugar": "Elqui - Tour Observatorio Astro Elqui Experiencial",
+      "total_reviews": 5,
+      "total_ratings": 225,
+      "rating_promedio": 4.7,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 2,
+          "negativo": 0,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 5
+        },
+        {
+          "tema": "niños",
+          "menciones": 1
+        },
+        {
+          "tema": "familia",
+          "menciones": 1
+        },
+        {
+          "tema": "didáctico",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Excelente experiencia, especialmente con los niños. Es una mezcla de visión científica y mitología popular. El anfitrión...",
+          "rating": 5,
+          "autor": "Hernán Romero",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Más que un tour astronómico Rodrigo ofrece una experiencia astronómica, un apasionado del universo, su charla es increíb...",
+          "rating": 5,
+          "autor": "Dalis Navarro",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": false,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:08:37.732877"
+    },
+    "timestamp": "2025-09-21T03:08:37.733047",
+    "place_id": "ChIJq5GseeEakJYRnnqiCv6TWOg"
+  },
+  "ChIJ_cvnm48ZkJYRxKJv5Y-Ks48": {
+    "data": {
+      "place_id": "ChIJ_cvnm48ZkJYRxKJv5Y-Ks48",
+      "idioma": "es",
+      "nombre_lugar": "Centro Astronomico Alfa Aldea",
+      "total_reviews": 5,
+      "total_ratings": 582,
+      "rating_promedio": 4.6,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 3,
+          "negativo": 0,
+          "neutro": 2
+        },
+        "predominante": "positivo"
+      },
+      "temas_principales": [
+        {
+          "tema": "niños",
+          "menciones": 2
+        },
+        {
+          "tema": "guía",
+          "menciones": 1
+        },
+        {
+          "tema": "precio",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "experiencia",
+          "menciones": 1
+        },
+        {
+          "tema": "limpio",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Linda experiencia. Una cafetería con todo. Muy ricos vinos.  La experiencia del ver las estrellas. Tenía mis expectativa...",
+          "rating": 4,
+          "autor": "Carlos Villegas Alderete",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Nos encantó la cabaña ! Recomendadisimo! Rústica y con todo lo necesario , súper bien equipada se agradece qe hallan has...",
+          "rating": 4,
+          "autor": "Joselyn Sepúlveda",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Camping encantador ubicado a 2 km de Vicuña con excelente atención. Baños impecables, ducha amplia con agua caliente rod...",
+          "rating": 5,
+          "autor": "ART SOAP",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Muy bueno y bonito. Nos quedamos en el cuarto con baño. Rico desayuno, vistas excelentes. Grato ambiente, muy buena char...",
+          "rating": 5,
+          "autor": "felipe sanz",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": true,
+        "apto_familias": true,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": true,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:08:46.395275"
+    },
+    "timestamp": "2025-09-21T03:08:46.395429",
+    "place_id": "ChIJ_cvnm48ZkJYRxKJv5Y-Ks48"
+  },
+  "ChIJzQdMa-EakJYReaQDUQMzTiU": {
+    "data": {
+      "place_id": "ChIJzQdMa-EakJYReaQDUQMzTiU",
+      "idioma": "es",
+      "nombre_lugar": "Desde el Jardín Astronomía",
+      "total_reviews": 5,
+      "total_ratings": 114,
+      "rating_promedio": 4.9,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 0,
+          "neutro": 4
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 3
+        },
+        {
+          "tema": "amable",
+          "menciones": 2
+        },
+        {
+          "tema": "familia",
+          "menciones": 1
+        },
+        {
+          "tema": "recomendado",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Excelente experiencia un trato familiar,cercano y ameno ...una buena conversación, don Sergio y doña Patricia muy buenas...",
+          "rating": 5,
+          "autor": "Jorge Aguilar",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": true,
+        "calidad_guia": false,
+        "calidad_equipo": false,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:08:52.308088"
+    },
+    "timestamp": "2025-09-21T03:08:52.308258",
+    "place_id": "ChIJzQdMa-EakJYReaQDUQMzTiU"
+  },
+  "ChIJvxQevIQBkJYRHUsNzcX-vEI": {
+    "data": {
+      "place_id": "ChIJvxQevIQBkJYRHUsNzcX-vEI",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio Galileo",
+      "total_reviews": 5,
+      "total_ratings": 49,
+      "rating_promedio": 4.9,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 0,
+          "neutro": 4
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 3
+        },
+        {
+          "tema": "guía",
+          "menciones": 2
+        },
+        {
+          "tema": "precio",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Lejos el mejor tour astronómico.  No es un tour para subir fotos a redes sociales,  es un tour para los amantes de la bu...",
+          "rating": 5,
+          "autor": "Johann Cofre",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": true,
+        "apto_familias": false,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:08:57.950760"
+    },
+    "timestamp": "2025-09-21T03:08:57.950973",
+    "place_id": "ChIJvxQevIQBkJYRHUsNzcX-vEI"
+  },
+  "ChIJ_b3MTCoakJYRv2pkmbeUgbg": {
+    "data": {
+      "place_id": "ChIJ_b3MTCoakJYRv2pkmbeUgbg",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio Mamalluca",
+      "total_reviews": 5,
+      "total_ratings": 3339,
+      "rating_promedio": 4.4,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 0,
+          "neutro": 4
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "guía",
+          "menciones": 2
+        },
+        {
+          "tema": "experiencia",
+          "menciones": 2
+        },
+        {
+          "tema": "niños",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "familia",
+          "menciones": 1
+        },
+        {
+          "tema": "limpio",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Es la segunda vez que lo visito y nuevamente creo que lo vale. El camino está impecable hasta arriba e incluso hay una v...",
+          "rating": 4,
+          "autor": "Jacqueline Tobar",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": true,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:09:07.653193"
+    },
+    "timestamp": "2025-09-21T03:09:07.653373",
+    "place_id": "ChIJ_b3MTCoakJYRv2pkmbeUgbg"
+  },
+  "ChIJB_CRrSjKkZYRCyFiKRn0FnM": {
+    "data": {
+      "place_id": "ChIJB_CRrSjKkZYRCyFiKRn0FnM",
+      "idioma": "es",
+      "nombre_lugar": "Tour Astronómico Mamalluca | SkyTour",
+      "total_reviews": 5,
+      "total_ratings": 120,
+      "rating_promedio": 4.4,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 2,
+          "negativo": 0,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 5
+        },
+        {
+          "tema": "guía",
+          "menciones": 4
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 2
+        },
+        {
+          "tema": "amable",
+          "menciones": 2
+        },
+        {
+          "tema": "frío",
+          "menciones": 1
+        },
+        {
+          "tema": "equipo",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Tuve una experiencia increíble con el Tour Astronómico Mamalluca. Desde el primer momento, la atención fue excelente, y ...",
+          "rating": 5,
+          "autor": "Millaray Etchevery",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Mi experiencia con el tour astronómico de SkyTour en el Observatorio Mamalluca fue simplemente espectacular. Desde el in...",
+          "rating": 5,
+          "autor": "Agatha Lizardi",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:09:36.191870"
+    },
+    "timestamp": "2025-09-21T03:09:36.192079",
+    "place_id": "ChIJB_CRrSjKkZYRCyFiKRn0FnM"
+  },
+  "ChIJ2SegRwAbkJYRx9kNHWJaDA0": {
+    "data": {
+      "place_id": "ChIJ2SegRwAbkJYRx9kNHWJaDA0",
+      "idioma": "es",
+      "nombre_lugar": "Tour Astronómico Valle del Elqui Benjatelescopio",
+      "total_reviews": 5,
+      "total_ratings": 31,
+      "rating_promedio": 5,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 0,
+          "negativo": 0,
+          "neutro": 5
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 5
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 2
+        },
+        {
+          "tema": "profesional",
+          "menciones": 2
+        },
+        {
+          "tema": "recomendado",
+          "menciones": 2
+        },
+        {
+          "tema": "equipo",
+          "menciones": 1
+        },
+        {
+          "tema": "conocedor",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Fue una experiencia genial, me encantó todo lo que tiene este tour, la atención personalizada, la información que se ent...",
+          "rating": 5,
+          "autor": "Beatriz Rebolledo",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:05.445094"
+    },
+    "timestamp": "2025-09-21T03:11:05.445348",
+    "place_id": "ChIJ2SegRwAbkJYRx9kNHWJaDA0"
+  },
+  "ChIJjfJODKEbkJYR2N4ndMwiuqw": {
+    "data": {
+      "place_id": "ChIJjfJODKEbkJYR2N4ndMwiuqw",
+      "idioma": "es",
+      "nombre_lugar": "Centro Astronómico Omega",
+      "total_reviews": 5,
+      "total_ratings": 144,
+      "rating_promedio": 4.8,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 1,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 5
+        },
+        {
+          "tema": "guía",
+          "menciones": 3
+        },
+        {
+          "tema": "frío",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "recomendado",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Experiencia muy linda e interesante que toda persona en su vida debería vivir al caer la noche se observa y se explica s...",
+          "rating": 5,
+          "autor": "mariaignacia lara",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:08.256218"
+    },
+    "timestamp": "2025-09-21T03:11:08.256486",
+    "place_id": "ChIJjfJODKEbkJYR2N4ndMwiuqw"
+  },
+  "ChIJzYJ119gakJYRHIfC6YnHVA8": {
+    "data": {
+      "place_id": "ChIJzYJ119gakJYRHIfC6YnHVA8",
+      "idioma": "es",
+      "nombre_lugar": "Amatista Travels Observatorio",
+      "total_reviews": 5,
+      "total_ratings": 154,
+      "rating_promedio": 4.7,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 2,
+          "negativo": 0,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 5
+        },
+        {
+          "tema": "guía",
+          "menciones": 3
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 2
+        },
+        {
+          "tema": "precio",
+          "menciones": 1
+        },
+        {
+          "tema": "limpio",
+          "menciones": 1
+        },
+        {
+          "tema": "amable",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Fantástica experiencia para ver la bóveda celeste con excelentes telescopios y un guía excepcional.\nSentir las buenas vi...",
+          "rating": 5,
+          "autor": "Claudio Arzola",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Excelente experiencia! Ivan muy amable y certero en sus explicaciones, todo muy claro y entretenido, vayan bien abrigado...",
+          "rating": 5,
+          "autor": "Jorge A. Ramos V.",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": true,
+        "apto_familias": false,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": true,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:09.620736"
+    },
+    "timestamp": "2025-09-21T03:11:09.620946",
+    "place_id": "ChIJzYJ119gakJYRHIfC6YnHVA8"
+  },
+  "ChIJg4v9ckbWj5YRr9o2R359x6U": {
+    "data": {
+      "place_id": "ChIJg4v9ckbWj5YRr9o2R359x6U",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio Turístico Collowara",
+      "total_reviews": 5,
+      "total_ratings": 804,
+      "rating_promedio": 4.6,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 1,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "guía",
+          "menciones": 3
+        },
+        {
+          "tema": "niños",
+          "menciones": 1
+        },
+        {
+          "tema": "frío",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "experiencia",
+          "menciones": 1
+        },
+        {
+          "tema": "profesional",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Increíble, vista del cielo, no recomiendo ir cuando haya luna llena 🌕, ya q esto dificulta la vista de las estrellas 💫, ...",
+          "rating": 5,
+          "autor": "consu ruiz",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": true,
+        "velocidad_servicio": true
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:10.782858"
+    },
+    "timestamp": "2025-09-21T03:11:10.783101",
+    "place_id": "ChIJg4v9ckbWj5YRr9o2R359x6U"
+  },
+  "ChIJI4VF-fAfkJYRlWMIPkPU2DY": {
+    "data": {
+      "place_id": "ChIJI4VF-fAfkJYRlWMIPkPU2DY",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio Astronómico Cerro Tololo",
+      "total_reviews": 5,
+      "total_ratings": 391,
+      "rating_promedio": 4.8,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 0,
+          "neutro": 4
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 2
+        },
+        {
+          "tema": "guía",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "limpio",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Excelente lugar para conocer, buenísimos guías, explican todas las dudas que tienes, enseñan bastante. Un 10 de 10 .  Pu...",
+          "rating": 5,
+          "autor": "María José",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": true,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:12.334426"
+    },
+    "timestamp": "2025-09-21T03:11:12.334820",
+    "place_id": "ChIJI4VF-fAfkJYRlWMIPkPU2DY"
+  },
+  "ChIJ6cyoPKobkJYRx5p-02cDUlc": {
+    "data": {
+      "place_id": "ChIJ6cyoPKobkJYRx5p-02cDUlc",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio Cerro Mamalluca",
+      "total_reviews": 5,
+      "total_ratings": 1824,
+      "rating_promedio": 4.5,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 0,
+          "neutro": 4
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 3
+        },
+        {
+          "tema": "guía",
+          "menciones": 2
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 2
+        },
+        {
+          "tema": "niños",
+          "menciones": 1
+        },
+        {
+          "tema": "didáctico",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:13.836747"
+    },
+    "timestamp": "2025-09-21T03:11:13.837077",
+    "place_id": "ChIJ6cyoPKobkJYRx5p-02cDUlc"
+  },
+  "ChIJiVEQNSwakJYR4N62E0rewcE": {
+    "data": {
+      "place_id": "ChIJiVEQNSwakJYR4N62E0rewcE",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio del Pangue - Deep Sky South",
+      "total_reviews": 5,
+      "total_ratings": 149,
+      "rating_promedio": 4.9,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 2,
+          "negativo": 1,
+          "neutro": 2
+        },
+        "predominante": "positivo"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 4
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 3
+        },
+        {
+          "tema": "guía",
+          "menciones": 2
+        },
+        {
+          "tema": "frío",
+          "menciones": 1
+        },
+        {
+          "tema": "caro",
+          "menciones": 1
+        },
+        {
+          "tema": "profesional",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Si hubiera más estrellas para ponerles lo haría. Una experiencia ÚNICA, súper personalizada ya que los grupos son de 5 p...",
+          "rating": 5,
+          "autor": "Cami Peralta",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Excelente experiencia, fue el primer observatorio que visite y dejo la vara muy alta ya que la atención es personalizada...",
+          "rating": 5,
+          "autor": "María Alejandra Catalán González",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": true,
+        "apto_familias": false,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:15.163526"
+    },
+    "timestamp": "2025-09-21T03:11:15.163916",
+    "place_id": "ChIJiVEQNSwakJYR4N62E0rewcE"
+  },
+  "ChIJTVXMlf4FkJYRZr0A2tWB6_Y": {
+    "data": {
+      "place_id": "ChIJTVXMlf4FkJYRZr0A2tWB6_Y",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio Solaris",
+      "total_reviews": 5,
+      "total_ratings": 43,
+      "rating_promedio": 4.9,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 1,
+          "negativo": 1,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 3
+        },
+        {
+          "tema": "guía",
+          "menciones": 2
+        },
+        {
+          "tema": "amable",
+          "menciones": 2
+        },
+        {
+          "tema": "frío",
+          "menciones": 1
+        },
+        {
+          "tema": "equipo",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Fuimos para la primera luna llena del año en la noche y fue una excelente experiencia, tour maravilloso, las astronomas ...",
+          "rating": 4,
+          "autor": "Manuel Alejandro Rodríguez Muñoz",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:16.479271"
+    },
+    "timestamp": "2025-09-21T03:11:16.479620",
+    "place_id": "ChIJTVXMlf4FkJYRZr0A2tWB6_Y"
+  },
+  "ChIJw-VnqIobkJYRIUqbzd2j6l0": {
+    "data": {
+      "place_id": "ChIJw-VnqIobkJYRIUqbzd2j6l0",
+      "idioma": "es",
+      "nombre_lugar": "COLLASUYO ASTRONÓMICO. Astroturismo Valle de Elqui",
+      "total_reviews": 5,
+      "total_ratings": 14,
+      "rating_promedio": 5,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 3,
+          "negativo": 0,
+          "neutro": 2
+        },
+        "predominante": "positivo"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 4
+        },
+        {
+          "tema": "guía",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "familia",
+          "menciones": 1
+        },
+        {
+          "tema": "recomendado",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Increíble experiencia viendo las estrellas con nuestra guía, Loreto. Hicimos el tour promocional, que incluye una clase/...",
+          "rating": 5,
+          "autor": "Manuela Martinez",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Espectacular!!! Experiencia única y sin igual 🥰 Se nota el conocimiento, amor y pasión de lo que hace y explica. Además ...",
+          "rating": 5,
+          "autor": "César Carrillo Molina",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Increíble experiencia, supero nuestras expectativas. Fuimos con mi familia el 30 de abril de 2023. Busque esta agencia p...",
+          "rating": 5,
+          "autor": "Jorge Alvarez",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Genial experiencia. Genial Loreto con sus explicaciones y experiencias contadas. Lindas fotos que nos tomó.",
+          "rating": 5,
+          "autor": "Andrés Zambrano",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:17.746932"
+    },
+    "timestamp": "2025-09-21T03:11:17.747280",
+    "place_id": "ChIJw-VnqIobkJYRIUqbzd2j6l0"
+  },
+  "ChIJ9SGSgqkBkJYRBX89n-cbHBg": {
+    "data": {
+      "place_id": "ChIJ9SGSgqkBkJYRBX89n-cbHBg",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio Migrantes",
+      "total_reviews": 5,
+      "total_ratings": 71,
+      "rating_promedio": 5,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 3,
+          "negativo": 0,
+          "neutro": 2
+        },
+        "predominante": "positivo"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 5
+        },
+        {
+          "tema": "guía",
+          "menciones": 2
+        },
+        {
+          "tema": "profesional",
+          "menciones": 2
+        },
+        {
+          "tema": "recomendado",
+          "menciones": 2
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "amable",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Una gran experiencia. Etien muy entusiasmado en ayudar y lograr la observación que es maravillosa, con un telescopio de ...",
+          "rating": 5,
+          "autor": "Héctor Castro",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Nuestra experiencia estuvo excelente, desde la persona que nos atendió en la oficina, luego WhatsApp, hasta el guía que ...",
+          "rating": 5,
+          "autor": "Esteban Palominos",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": true,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:18.875927"
+    },
+    "timestamp": "2025-09-21T03:11:18.876287",
+    "place_id": "ChIJ9SGSgqkBkJYRBX89n-cbHBg"
+  },
+  "ChIJ_bE9JR7Wj5YR0flU8lEQKMU": {
+    "data": {
+      "place_id": "ChIJ_bE9JR7Wj5YR0flU8lEQKMU",
+      "idioma": "es",
+      "nombre_lugar": "CENTRO DE OBSERVACION ASTRONOMÍCA MACHUKUNA ANDACOLLO",
+      "total_reviews": 5,
+      "total_ratings": 27,
+      "rating_promedio": 4.8,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 2,
+          "negativo": 0,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 4
+        },
+        {
+          "tema": "guía",
+          "menciones": 2
+        },
+        {
+          "tema": "niños",
+          "menciones": 1
+        },
+        {
+          "tema": "telescopio",
+          "menciones": 1
+        },
+        {
+          "tema": "familia",
+          "menciones": 1
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Excelente experiencia.\nIniciamos con una visita a los trapiches (a un costado del centro de observación), en donde se ex...",
+          "rating": 5,
+          "autor": "Kenji Basaure Matsumoto",
+          "aspecto": "experiencia_general"
+        },
+        {
+          "frase": "Hoy 12 de abril, visitamos este lugar y nada que decir, todo excelente, la guía Javiera nos mostró y explicó lo científi...",
+          "rating": 5,
+          "autor": "Clias",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": true,
+        "calidad_servicio": false,
+        "calidad_guia": true,
+        "calidad_equipo": true,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:19.839550"
+    },
+    "timestamp": "2025-09-21T03:11:19.839994",
+    "place_id": "ChIJ_bE9JR7Wj5YR0flU8lEQKMU"
+  },
+  "ChIJd7hxmmnhj5YR8NgV2pwDA2U": {
+    "data": {
+      "place_id": "ChIJd7hxmmnhj5YR8NgV2pwDA2U",
+      "idioma": "es",
+      "nombre_lugar": "Observatorio SOAR",
+      "total_reviews": 5,
+      "total_ratings": 68,
+      "rating_promedio": 5,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 2,
+          "negativo": 0,
+          "neutro": 3
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [
+        {
+          "tema": "experiencia",
+          "menciones": 2
+        }
+      ],
+      "fortalezas": [
+        {
+          "frase": "Excelente experiencia, conocer y aprender un poco mas de la ciencia que se realiza en nuestro país.",
+          "rating": 5,
+          "autor": "Susan Holzapfel",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": false,
+        "calidad_guia": false,
+        "calidad_equipo": false,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:20.734613"
+    },
+    "timestamp": "2025-09-21T03:11:20.735144",
+    "place_id": "ChIJd7hxmmnhj5YR8NgV2pwDA2U"
+  },
+  "ChIJqeH5xF_KkZYRxD1dCaTEYRo": {
+    "data": {
+      "place_id": "ChIJqeH5xF_KkZYRxD1dCaTEYRo",
+      "idioma": "es",
+      "nombre_lugar": "Gemini South Observatory",
+      "total_reviews": 5,
+      "total_ratings": 51,
+      "rating_promedio": 4.9,
+      "sentimiento_general": {
+        "distribucion": {
+          "positivo": 0,
+          "negativo": 0,
+          "neutro": 5
+        },
+        "predominante": "neutro"
+      },
+      "temas_principales": [],
+      "fortalezas": [
+        {
+          "frase": "Hermoso lugar! Tiene una vista maravillosa a la precordillera y el tour es fantástico. Recordar que los tours se agendan...",
+          "rating": 5,
+          "autor": "Carolina Vargas",
+          "aspecto": "experiencia_general"
+        }
+      ],
+      "debilidades": [],
+      "insights": {
+        "precio_mencionado": false,
+        "apto_familias": false,
+        "calidad_servicio": false,
+        "calidad_guia": false,
+        "calidad_equipo": false,
+        "limpieza_mencionada": false,
+        "velocidad_servicio": false
+      },
+      "fuente": "google_places_api",
+      "fecha_analisis": "2025-09-21T03:11:21.629242"
+    },
+    "timestamp": "2025-09-21T03:11:21.629741",
+    "place_id": "ChIJqeH5xF_KkZYRxD1dCaTEYRo"
+  }
+}

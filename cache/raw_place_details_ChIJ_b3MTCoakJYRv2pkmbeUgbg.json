@@ -1,0 +1,769 @@
+{
+  "place_id": "ChIJ_b3MTCoakJYRv2pkmbeUgbg",
+  "timestamp": "2025-09-21T04:15:26.154830",
+  "api_source": "google_places_api_v1",
+  "from_cache": false,
+  "data": {
+    "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg",
+    "id": "ChIJ_b3MTCoakJYRv2pkmbeUgbg",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "(51) 267 0330",
+    "internationalPhoneNumber": "+56 51 267 0330",
+    "formattedAddress": "San Martín 275, Vicuña, Coquimbo, Chile",
+    "addressComponents": [
+      {
+        "longText": "275",
+        "shortText": "275",
+        "types": [
+          "street_number"
+        ],
+        "languageCode": "en-US"
+      },
+      {
+        "longText": "San Martín",
+        "shortText": "San Martín",
+        "types": [
+          "route"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Vicuña",
+        "shortText": "Vicuña",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Vicuña",
+        "shortText": "Vicuña",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Elqui",
+        "shortText": "Elqui",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Coquimbo",
+        "shortText": "Coquimbo",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Chile",
+        "shortText": "CL",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "47XFX78P+GH",
+      "compoundCode": "X78P+GH Vicuña, Chile"
+    },
+    "location": {
+      "latitude": -30.033709599999998,
+      "longitude": -70.7135378
+    },
+    "viewport": {
+      "low": {
+        "latitude": -30.0350632302915,
+        "longitude": -70.71483768029151
+      },
+      "high": {
+        "latitude": -30.032365269708503,
+        "longitude": -70.7121397197085
+      }
+    },
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=13295071091247835839&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://reservas.observatoriomamalluca.cl/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "nextOpenTime": "2025-09-21T14:00:00Z"
+    },
+    "utcOffsetMinutes": -180,
+    "adrFormatAddress": "<span class=\"street-address\">San Martín 275</span>, <span class=\"locality\">Vicuña</span>, <span class=\"region\">Coquimbo</span>, <span class=\"country-name\">Chile</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 3339,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": {
+      "text": "Office Mamalluca Observatory",
+      "languageCode": "en"
+    },
+    "currentOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 11,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 21
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 21
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 22
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 22
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 23
+            }
+          },
+          "close": {
+            "day": 2,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 23
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 24
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 24
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 25
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 25
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 26
+            }
+          },
+          "close": {
+            "day": 5,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 26
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 11,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 27
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 21,
+            "minute": 0,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 27
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "nextOpenTime": "2025-09-21T14:00:00Z"
+    },
+    "shortFormattedAddress": "San Martín 275, Vicuña",
+    "editorialSummary": {
+      "text": "Tourist observatory with educational displays in a dramatic mountain setting known for clear skies.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOGMyeHh3RRAB",
+        "relativePublishTimeDescription": "2 years ago",
+        "rating": 5,
+        "text": {
+          "text": "We saw the Milky Way with our naked eyes. The sky is so clear here. We also saw Jupiter & its moons, plus Saturn rings and several nebuli in the telescopes. So beautiful! The guide spoke excellent English and gave great explanations of constellations. Make sure to wear warm clothing because it gets cold in the mountain at night.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "We saw the Milky Way with our naked eyes. The sky is so clear here. We also saw Jupiter & its moons, plus Saturn rings and several nebuli in the telescopes. So beautiful! The guide spoke excellent English and gave great explanations of constellations. Make sure to wear warm clothing because it gets cold in the mountain at night.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Construccion Terrazas SPA",
+          "uri": "https://www.google.com/maps/contrib/102628414328983515901/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs6svt-iSJm08gLZPGwlLz1M7U_IgwBMmhJT3s0KKPP1yAQKy4=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2022-11-06T23:30:07.380009Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtOGMyeHh3RRAB&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtOGMyeHh3RRAB!2m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQenJMX3J3RRAB",
+        "relativePublishTimeDescription": "10 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Buy tickets in advance but even then show up at 6:30 pm to pick them up. First day we missed this windows as online it says 1 hour ahead and not 6:30z either way they were super accommodating and helpful. Beautiful skies",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Buy tickets in advance but even then show up at 6:30 pm to pick them up. First day we missed this windows as online it says 1 hour ahead and not 6:30z either way they were super accommodating and helpful. Beautiful skies",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "David I",
+          "uri": "https://www.google.com/maps/contrib/103592972883514572246/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnIFuF_376xVOzaS2GgTOXU0za8BLYbBB2TeK0Modm0VYq9bgq=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2024-11-24T12:08:21.685970Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQenJMX3J3RRAB&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQenJMX3J3RRAB!2m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxazZHYnFnRRAB",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 3,
+        "text": {
+          "text": "They sure have a weird system for ticketing, in that you make your reservation online and THEN you show up at a specific time the evening of your reservation to stand in line to buy tickets and transport, then wait another 30 minutes before being transported. The facilities were alright, but we were in a group with 20 other people so there's a lot of standing around waiting for your turn to look through the telescopes. Guides are passionate and made it interesting. Overall it was nice enough, but not sure it's a must-visit.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "They sure have a weird system for ticketing, in that you make your reservation online and THEN you show up at a specific time the evening of your reservation to stand in line to buy tickets and transport, then wait another 30 minutes before being transported. The facilities were alright, but we were in a group with 20 other people so there's a lot of standing around waiting for your turn to look through the telescopes. Guides are passionate and made it interesting. Overall it was nice enough, but not sure it's a must-visit.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "J. C.",
+          "uri": "https://www.google.com/maps/contrib/109040196415195189859/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJVYGEnQLQYDeXA7oBl8SLmLPQsNa_iU6gXn4AudoiJb6z1sQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-03T03:32:36.873670Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxazZHYnFnRRAB&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxazZHYnFnRRAB!2m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnZ2UzdldnEAE",
+        "relativePublishTimeDescription": "8 years ago",
+        "rating": 5,
+        "text": {
+          "text": "This place is incredible.  Our guide was so knowledgeable and funny! He was passionate and his passion was contagious! What an amazing experience.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "This place is incredible.  Our guide was so knowledgeable and funny! He was passionate and his passion was contagious! What an amazing experience.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Barbara Olivares-Lazcano",
+          "uri": "https://www.google.com/maps/contrib/108016909326884305210/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKgFXM2Utab06jCZYt7gsDKB-mJGFuCp6YUQz4nzQcUE-ugK2Xbw=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2017-08-27T03:41:47.951Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNnZ2UzdldnEAE&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnZ2UzdldnEAE!2m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3eEwzMFRnEAE",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 5,
+        "text": {
+          "text": "A must visit if you are in the area. We were in Ruben's group and he was a wealth of knowledge. The tour is ideal and the team are very insightful",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "A must visit if you are in the area. We were in Ruben's group and he was a wealth of knowledge. The tour is ideal and the team are very insightful",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Tim Veyret",
+          "uri": "https://www.google.com/maps/contrib/116765172526766088411/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWEGD1t_pQsdvuTU4Y4G-JjF7_F-KVrcWeWe8tKg1f9jcSQrrU=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-08-12T16:13:03.537208Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3eEwzMFRnEAE&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3eEwzMFRnEAE!2m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2e_6h-MvzL_DCBmgItaHsM1ajPNPD30Z6br9XmFHw3s0e0yPoTl4m3ollGkK9eDyILzR_9Hfo_0mvBDTnYm8vaaNCMw6qKe30xla7tQ6tRepYahF2KbBkMpBRYp0VFcGsSzxyOBS9gBelZdaK5by-u2xDVY7nO381yHkFViirJypaUUpLTO9TO5SbH4dSvvRdLDukQhJoaaarveuAGMLs6GMYN7MVseqsrC-j3_corsMLWBDeVlAWuew26HkOhqchEbhW4MiirnuCpKgxVcTCyCs7vvqoaDVv0pWDpkJ79KdA",
+        "widthPx": 1440,
+        "heightPx": 810,
+        "authorAttributions": [
+          {
+            "displayName": "Observatorio Mamalluca",
+            "uri": "https://maps.google.com/maps/contrib/102880018272432068104",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwqsOzka26Q5bVgDbe-TJu2dKssf1EOozyucg_KLPF2couIKms=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOs7i-9t5tRV_U0nSlVKjbuSWk2WBThnsQrRq4e&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOs7i-9t5tRV_U0nSlVKjbuSWk2WBThnsQrRq4e!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2fZdnIIGIWpD6SbYeaobfwO1M73MZwUbkIeG8K1joV1rdvuxIcQ1lTrexXPXNvRcLIbB9qx6H8Mon4YRIDd1et40Aa4KyMWeYSk3N2LEwVxVpYIdDCNJv_OlHaa2PobpEx3MglcFI8EuvnVBlBHc_DLYug9warhT2ucpsPdGFoqs01o6sByxbGukOkSBmPEcABsS7OEyD8vyPmzemXtITcFRFHfccNhyW743PekSwNJKVwDJ8Xyc9l5u-gi4nPcooWq8EkkQRG2vMP4901WYJOT_LjNmR-yc9kQvEDAZrGdX_RwKvtxFU_ER18Ofu7NEFDByIRs8Tdw1FyS3RCLVEtfjj-W55EPi0a_cYto7fLbsP8n8ZU9pXxLGUdqSMVZ_ntCwg0aYNpNhmSBdFKrT5h1ORev-nFHc96NySkKwk8I2w",
+        "widthPx": 4800,
+        "heightPx": 3200,
+        "authorAttributions": [
+          {
+            "displayName": "Bruno Peralta González",
+            "uri": "https://maps.google.com/maps/contrib/106930944249113304094",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5KQFYeupFJsZ-8gBl6jCmQYWDYRaPS7cZ17UYGnaMRE_o2r5O=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDN3LHyeg&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDN3LHyeg!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2eDl3yZ5xtWKYJc94B7w10hTf0U_iNrAJtbe_zXENOR_MYC-NtcsHgC3FVSICYghR1ssT7I2OZgp_MZJjAdcN3-xQQPfgVA3Ss8WW4tUH9TU6L0EAZRQP27KYjZQiKs7n9-OP5d_XnIx62X4wqJCOmivUcEDj_64XuJWU5sarxvIUjZH3D88QLCCbBmL5orJZrFiThS7iQN_MnV_UGypavOk_8L6evH6Y93QnYg_fIzgmZOIAVc3acDbFOrRYK3-UhFJybH48E9vXbZnfTTxEI1BBSnnaJ7_BYjyXSVAP4JAtBhuMtdOqEVQSV9pjz5Lyt3E8R1clXr7GAecHvHgY_yXJn0a6_hcfVTzxn6Vg1wxUlj5AjHzTsPcJiHoIeMqhBJKqj-GCjtbtxn5EAOEaWTxfePuZepbgTzud48QZkRYQ",
+        "widthPx": 3456,
+        "heightPx": 4608,
+        "authorAttributions": [
+          {
+            "displayName": "Margarita Silva",
+            "uri": "https://maps.google.com/maps/contrib/103551877682352678120",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBRHKv1WA-xUsAzSv9z0cRTQ8kGADFL7-JTJlGc-obvBvhKlpY=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR4N-zQA&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR4N-zQA!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2cwA_Ndro4KYF6WRPEFE3vG3cE8_qUResVyrRA43Z8iSx51Fi_KCyDqUe3Eb_po9Xu5GKnvi3RcAqLQbXTpQZoTEXp3HQnt2PGOrWiREDkZdPbDL6mZiaknguqGsRwOhDkcuxn1ISrwQvGQjJDlpC8Ww8AA3xtHCn8cuirEJ9XBZGxLGcttgWCJNfs-QQVg9Mk-GT-4INNSKQCAMD97rTiucOtotMi9AdOMd6B7u_ze5lcoyQakiT__4XRaLosZ4UasZWdWHyff0On4fHcMnJP71pRK6lXl1fseNB8QP8jRQ3RnTTAZF63SKY-spwAQoZBtjuhfFkbsMlmu1AMae_kg20AkHfUiV9qx633dThV_App24qcxmoBQaqoF-RezDD3TVenqK39k8KgzjeAy4Y2Liped1ouPFPKF02sBUGQfZ2TQ",
+        "widthPx": 3456,
+        "heightPx": 4608,
+        "authorAttributions": [
+          {
+            "displayName": "Merita C Bonilla",
+            "uri": "https://maps.google.com/maps/contrib/116288226894630678446",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW60LDZX4vPWSfOi-g5-LDnDi707bn-r4QcdsRGool2ya5ovsFN=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICW6KLGsAE&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW6KLGsAE!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2d-AEEolM9iE2YOHRo27oY4-0ai0mSAYWzCU8-pQDL6DsyECb3InRr_YZnV5ZgkK0Gw586ccUWS6UBgji5XCi6OxOhoVrGZ6QOwvXkCTg6_xoXzHljz-6DIX1C3x-rAwk3AaXsmFrgXji4c-M52fVQfo-NzhaNB329ilXmB4hqAjBC_PqobIBMqFpHu2xc6t6QqrnNlBBEFFZ1yMn4EKLMGsmFD0qnGF6yQiXQghcbcgfqXK84RBEzjpB_quJBmwBkvY108fCO9cy-Nlrt1W7Ej2BNrXQZ8wbLkTEFUAo5JEkA_wA0MHUXKnuKVt4r5et5w8cRVfO2QxCZ0f-6D6uwbIPUnTOz3NlaUtacpy_ox8tsdFooWzJnfsYwGfCdR8WwJHHYc5oF-Waz91taPRpczbnaH1DHCSLHJvMJbna9zwEc",
+        "widthPx": 4000,
+        "heightPx": 3000,
+        "authorAttributions": [
+          {
+            "displayName": "Harold Herrera",
+            "uri": "https://maps.google.com/maps/contrib/108197239080427709585",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMqEwfJFt3nDiMlePpx5iCy2cEeX9FV45869oeNieIFOkFhnEE=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1_pvQjwE&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1_pvQjwE!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2eChVrLEtqtwfR3DZGmFRxoADUPmpHdTFHiXlqcgoxOUTn6XNO_FHcEZ1qnGZ28i-Es-EDB18Quepa0iSV3M0q4OsaCwLIopWpufVuvjSs_SySmmuiMuBi3WgRUk6WVmcI2b49vp3EyLyh74MzrqtX1JPkUCmp_fJzXNTcmU3r6fs53Cc1Fcs1nZJ75nVz8Cay9hchunmOSB1I1jhblhJcFFNCb9yCP-yi4xx10YN3-65KTohkUoS2tegqWYa7nwJcwtC0VGo2KuZXAgSy_Bn8Sdzy6hX3Snghx5OIIe3iklG4ziBASNENypk6jsZbVQK_xewdKzUA-uGYa2OPiD4zefNvGU-8cR4o_HsLlUfKna92xhrBNZ-FCr-fnE7HW8xPKIFtdtbM5QxxNoscmIbU_tjzMJ54blX86MSdC04FShA",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Fernando Montoya",
+            "uri": "https://maps.google.com/maps/contrib/102166457576086432530",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVO5Y1BK3rFSWUhvt4AKdgin3ZnbYtE-LMJdrmMZ_E7r-mKbTi4=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDF2oS7aQ&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF2oS7aQ!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2fN-NA8ViLGBIafDtcY0KjzOO08OA0TaxGFwyg5ZMepqce9dZtGHuRHs3GxvAFVc0yOsCwtJTugzDguV0y9YV2KK8YNlYH0D5-u7cFqcIXaePBMCfi8Z562IA4ZPZ_vJW0GUdQbkQ8eGXwysEKucHA8MbqTuobvadqyQUeFCB2ahHr4pGjOOf2Hl63soey29cUBQQIwBBPEORmrocO9gTII8ywkGhvKAEUETs24zSXyMl7SnT4sxWVaHaCdozivDs3LbbG7PUrbhbjB5awysvfggItNZyzH6K5rSIFTHszi6HWcAp7Fs5L5mf8FwxozbByFM1BeYjM1KL2ULBkJigSPy6_uLTzgvlDlscH_39zZdGA-iNfKeGTABIxH8kCmSM4XymTpc6aNjqCyy04LWO8K-7mYTmZlsl4apTaac-43yA",
+        "widthPx": 3968,
+        "heightPx": 2976,
+        "authorAttributions": [
+          {
+            "displayName": "Carlos Concha",
+            "uri": "https://maps.google.com/maps/contrib/100898128775501835097",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKupsnHn5LKToei_djM_i0hg7QEogjt2gd8HLyKkU11b7Qcng=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4mNHbbg&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4mNHbbg!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2eJuBx8dOLg8gkg1-EdR0tzjyxqG2DyYQFlEB8_VU4ZYY2a4PZ_gzB0DRgXmPB2WkT8p8DAtlpHiv14K_NrFBp7v8G71HtHqkRSRZFiKiA2U061fKCWCUpXW-N4pOMvVDL7vkHPgNgNFYfaM6LxOwsa3-yH4xZUBF71rCxDfOB6Xj8PBGo07qSVxLU8q8N2ZN1vQGYo8HxvlxCwDANbGoJ4Wq2ILGt9RNbMttAb1FzAAhe_6x0RysAMqbmWPLssyz3vvH3NTDcHR5wkPo6sJsUITEc3UKsKhsY5BQMuA_bnjt6bqdtQlLiAthPBchTLYJE3FL6cnZql5MHLUcndPfrJgNUT_Xg7plH9T1CfiKgziqal1tvXWDaOxMovj-LOadAA5_aJG_-x-bdMECpdHUfD-j_5mrZgkcSa9iax7mfJAQ",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "Raynier Tarazona",
+            "uri": "https://maps.google.com/maps/contrib/104980581957291787731",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaghQw8uiYJoxl-0lLJcEGHkviKXcwCno6pstvAVeqOHOL5O4=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC25rThIw&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC25rThIw!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2ebu-9L2rKk551ncGnnnO5hEoCUP_fCUjm2YA4KN8nGvxA-iqUN3LCA3mOBsc_KeE5jhU6YBFeQIFiuv58eTYyMjmN6LxPNJj_MiIjkPaSETHG2RXLtAy9IcURrvXdl4dNch6eLaQNFm2ml8IYxztddEDt8wxJ5hR4Sjaziec8eKFDXUZYJUO3KvdKkcqKnlnO3hfqA69vj04eFZfeoZLX3mOEKPaom2VaVO7tWcmXSr0BZIunhIrkA7ExQ9B3HCnnrm8WEAB0R04M2B_zQ5SNSDbqEYU-N_0jE03TcT3WbDfZk8PqNqSOl3VbG8rtdRG1vhsDyUacuBkNe3_6LPhw9rlClyaGLRiuZmu5BxuPvQpyaff7ygPvAlodqbM0EihSN27-NDOqCNw3-sT0Vc9PVqe_N_W-7BgAL9DojnbKEcDCU",
+        "widthPx": 1920,
+        "heightPx": 1920,
+        "authorAttributions": [
+          {
+            "displayName": "max santelices",
+            "uri": "https://maps.google.com/maps/contrib/106336112049829712701",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXsYR9bBnX7Vtxtow0T44b6RYPTjJxTDf7Bm-QLeRySBYERCF6=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC68d2A5wE&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC68d2A5wE!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      },
+      {
+        "name": "places/ChIJ_b3MTCoakJYRv2pkmbeUgbg/photos/AciIO2f3tpGPQCcIrvGcsmvPzMAjwOAnM7z2OQbvitbDBCGMm9EEIzAlYe9dQB_ZRlEkR4dZPkNjfWHw5S_kjcOcTPUDDPdtoIOPuDsZfFFbfqaw9YyLr7lQz0pvkEc1M1ayRhbVGagObc0xb_g7RchFJ2H4Q2a2UtXXRd629-OSQewXax9lmyOBSYNkwdFp-WqnesBGD_5jlvFPWVPFjFJeoMpZaAM7E46YC_Yjaj4ZcwkkhHKIspwPdoLUs5neFvnCfRhfjrIa8uN4rihfHrQAIAUCKf3a7elTRHzoCSBOJa1ES20GkYi0eF62FEqX8aHCz0TeSC-e7A5i9EP67a6ZDR3AURWYJWWeAhkAf19nBBfAgaimBdr3ZrFmjIo3Gg6Lv-0SqlRQs_Z-10LWcMEXk2FAbvAPAUMhMtnOsYUZeps",
+        "widthPx": 4618,
+        "heightPx": 3464,
+        "authorAttributions": [
+          {
+            "displayName": "Edgardo Vargas Guerra",
+            "uri": "https://maps.google.com/maps/contrib/101560384050499734323",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLrVByqnZDVi5L-qezLRhpV515Ke5dvXkur7LEtTWJS_8aPcrIPA=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDG_Y61JQ&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG_Y61JQ!2e10!4m2!3m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf"
+      }
+    ],
+    "goodForChildren": true,
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "pureServiceAreaBusiness": false,
+    "addressDescriptor": {
+      "landmarks": [
+        {
+          "name": "places/ChIJN0r8sisakJYRSobpfv4bc1Q",
+          "placeId": "ChIJN0r8sisakJYRSobpfv4bc1Q",
+          "displayName": {
+            "text": "Municipality of Vicuña",
+            "languageCode": "en"
+          },
+          "types": [
+            "establishment",
+            "point_of_interest"
+          ],
+          "spatialRelationship": "BESIDE",
+          "straightLineDistanceMeters": 11.223256,
+          "travelDistanceMeters": 6.281826
+        },
+        {
+          "name": "places/ChIJ7czKsysakJYRa7sD08-093k",
+          "placeId": "ChIJ7czKsysakJYRa7sD08-093k",
+          "displayName": {
+            "text": "Torre Bauer",
+            "languageCode": "es"
+          },
+          "types": [
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+          ],
+          "spatialRelationship": "BESIDE",
+          "straightLineDistanceMeters": 33.080544,
+          "travelDistanceMeters": 2.3028164
+        },
+        {
+          "name": "places/ChIJu-RPBCsakJYRVq7Xo9asuTE",
+          "placeId": "ChIJu-RPBCsakJYRVq7Xo9asuTE",
+          "displayName": {
+            "text": "Unimarc",
+            "languageCode": "es"
+          },
+          "types": [
+            "establishment",
+            "food",
+            "grocery_or_supermarket",
+            "point_of_interest",
+            "store",
+            "supermarket"
+          ],
+          "spatialRelationship": "AROUND_THE_CORNER",
+          "straightLineDistanceMeters": 100.099464,
+          "travelDistanceMeters": 96.907425
+        },
+        {
+          "name": "places/ChIJoSjozisakJYRlO1vo6f0wHI",
+          "placeId": "ChIJoSjozisakJYRlO1vo6f0wHI",
+          "displayName": {
+            "text": "Terral Hotel & SPA",
+            "languageCode": "en"
+          },
+          "types": [
+            "establishment",
+            "lodging",
+            "point_of_interest"
+          ],
+          "spatialRelationship": "DOWN_THE_ROAD",
+          "straightLineDistanceMeters": 146.18741,
+          "travelDistanceMeters": 146.3692
+        },
+        {
+          "name": "places/ChIJF9KZsSsakJYR8x_XitDjSao",
+          "placeId": "ChIJF9KZsSsakJYR8x_XitDjSao",
+          "displayName": {
+            "text": "Iglesia de Inmaculada Concepción",
+            "languageCode": "en"
+          },
+          "types": [
+            "church",
+            "establishment",
+            "place_of_worship",
+            "point_of_interest"
+          ],
+          "spatialRelationship": "AROUND_THE_CORNER",
+          "straightLineDistanceMeters": 55.455128,
+          "travelDistanceMeters": 52.415947
+        }
+      ],
+      "areas": [
+        {
+          "name": "places/ChIJ7czKsysakJYRlas-CBF4FT8",
+          "placeId": "ChIJ7czKsysakJYRlas-CBF4FT8",
+          "displayName": {
+            "text": "Torre Bauer",
+            "languageCode": "es"
+          },
+          "containment": "OUTSKIRTS"
+        },
+        {
+          "name": "places/ChIJr2wItysakJYR3cmUFJdudrg",
+          "placeId": "ChIJr2wItysakJYR3cmUFJdudrg",
+          "displayName": {
+            "text": "Iglesia de la Inmaculada Concepción de Vicuña",
+            "languageCode": "es"
+          },
+          "containment": "NEAR"
+        }
+      ]
+    },
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x96901a2a4cccbdfd:0xb88194b799646abf!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=13295071091247835839&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x96901a2a4cccbdfd:0xb88194b799646abf!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x96901a2a4cccbdfd:0xb88194b799646abf!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x96901a2a4cccbdfd:0xb88194b799646abf!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "timeZone": {
+      "id": "America/Santiago"
+    },
+    "postalAddress": {
+      "regionCode": "CL",
+      "languageCode": "en-US",
+      "administrativeArea": "Coquimbo",
+      "locality": "Vicuña",
+      "addressLines": [
+        "San Martín 275"
+      ]
+    }
+  }
+}

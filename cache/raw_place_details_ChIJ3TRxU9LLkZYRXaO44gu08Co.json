@@ -1,0 +1,461 @@
+{
+  "place_id": "ChIJ3TRxU9LLkZYRXaO44gu08Co",
+  "timestamp": "2025-09-21T04:13:27.365592",
+  "api_source": "google_places_api_v1",
+  "from_cache": false,
+  "data": {
+    "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co",
+    "id": "ChIJ3TRxU9LLkZYRXaO44gu08Co",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "9 3364 9818",
+    "internationalPhoneNumber": "+56 9 3364 9818",
+    "formattedAddress": "Parcela 36 - ruta D 269, lote b28, 1701340 La Serena, Coquimbo, Chile",
+    "addressComponents": [
+      {
+        "longText": "Parcela 36",
+        "languageCode": "es"
+      },
+      {
+        "longText": "lote b28",
+        "shortText": "lote b28",
+        "types": [
+          "subpremise"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "269",
+        "shortText": "269",
+        "types": [
+          "street_number"
+        ],
+        "languageCode": "en-US"
+      },
+      {
+        "longText": "ruta D",
+        "shortText": "ruta D",
+        "types": [
+          "route"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "La Serena",
+        "shortText": "La Serena",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Elqui",
+        "shortText": "Elqui",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Coquimbo",
+        "shortText": "Coquimbo",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "es"
+      },
+      {
+        "longText": "Chile",
+        "shortText": "CL",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "1701340",
+        "shortText": "1701340",
+        "types": [
+          "postal_code"
+        ],
+        "languageCode": "en-US"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "572C2W2G+RW",
+      "compoundCode": "2W2G+RW La Serena, Chile"
+    },
+    "location": {
+      "latitude": -29.997995600000003,
+      "longitude": -71.0726506
+    },
+    "viewport": {
+      "low": {
+        "latitude": -29.999457830291497,
+        "longitude": -71.0738787802915
+      },
+      "high": {
+        "latitude": -29.996759869708498,
+        "longitude": -71.07118081970849
+      }
+    },
+    "rating": 5,
+    "googleMapsUri": "https://maps.google.com/?cid=3094170907144921949&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": -180,
+    "adrFormatAddress": "Parcela 36 - <span class=\"street-address\">ruta D 269, lote b28</span>, <span class=\"postal-code\">1701340</span> <span class=\"locality\">La Serena</span>, <span class=\"region\">Coquimbo</span>, <span class=\"country-name\">Chile</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 28,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": {
+      "text": "tour astronómico observatorio interactivo",
+      "languageCode": "es"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0,
+            "truncated": true,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 21
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2025,
+              "month": 9,
+              "day": 27
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "shortFormattedAddress": "Parcela 36, ruta D 269, lote b28, La Serena",
+    "reviews": [
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvcmR2c2VBEAE",
+        "relativePublishTimeDescription": "5 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Jorge a 7 explaining to us, took his time so that we could see different nebulae with the telescope and we got to see Mars. 100% recommended experience Super personalized and super friendly!!! I recommend everyone to do this tour!!!",
+          "languageCode": "en-US"
+        },
+        "originalText": {
+          "text": "Jorge un 7 explicándonos, se tomó su tiempo para que pudiéramos ver con el telescopio distintas nebulosas y llegamos ver a Marte. Experiencia recomendada al 100%   Super personalizado y súper amable!!! Se los recomiendo a todos que hagan este tour !!!",
+          "languageCode": "es"
+        },
+        "authorAttribution": {
+          "displayName": "Margaret Mota",
+          "uri": "https://www.google.com/maps/contrib/109147519185809718036/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKofOoLO-HdYWXBp_g0IWybxNmeU2dSmPfSstb-6aM3LS7ENar=s128-c0x00000000-cc-rp-mo-ba3"
+        },
+        "publishTime": "2025-04-19T04:18:23.491437Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvcmR2c2VBEAE&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvcmR2c2VBEAE!2m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaEs2Ui1BRRAB",
+        "relativePublishTimeDescription": "8 months ago",
+        "rating": 5,
+        "text": {
+          "text": "I'm telling you, Jorge is an astronomy enthusiast. If you want to see planets like Venus, Jupiter, Saturn, Mars, and the minor luminary, the Moon, at a distance as far away as your cell phone, lol, you have to find him and go live that wonderful experience. It was really cool and entertaining. Remember that everything will depend on the seasons and the weather in the sky. Contact him, you won't regret it.",
+          "languageCode": "en-US"
+        },
+        "originalText": {
+          "text": "Les comento, Jorge es un aficionado de la astronomía en el cual si tu quieres ver planetas tales como Venus, Júpiter, saturno, martes y el luminar menor que es la luna a una distancia al igual que ver tu celular xd, tienes que buscarle y ir a vivir esa linda experiencia. Fue muy genial y entretenido. Recordarles que todo dependerá de las estaciones u el tiempo del cielo. Contactarle no te arrepentirás",
+          "languageCode": "es"
+        },
+        "authorAttribution": {
+          "displayName": "Bastián Andrés Ríos Carmona",
+          "uri": "https://www.google.com/maps/contrib/108285794203770925152/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo0Cl2Nfb7qu5bDQBVRCitJzDZTUub6afbJxq3AjLRuGh45BdJ=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2025-01-13T02:04:31.070242Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfaEs2Ui1BRRAB&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaEs2Ui1BRRAB!2m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNzlfanBRRRAB",
+        "relativePublishTimeDescription": "7 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Very good experience on this tour. Jorge is very good at explaining in detail everything he knows about the universe and has a lot of patience to respond to two 10-year-old girls.\nIt is worth it, the cost and the moment we all learned a lot and we could see the moon, planets and beautiful star cluster. Thank you Jorge and Éxito for reaching more people with your tour.",
+          "languageCode": "en-US"
+        },
+        "originalText": {
+          "text": "Muy buena experiencia en este tour. Jorge es muy bueno explicando en detalle todo lo que sabe del universo y tiene harta paciencia para responder a dos niñitas de 10 años.\nVale la pena, el costo y el momento vivido todos aprendimos mucho y se pudo visualizar la luna, planetas y cúmulo de estrellas hermoso. Gracias por toso Jorge y Éxito para llegar a más personas tu tour.",
+          "languageCode": "es"
+        },
+        "authorAttribution": {
+          "displayName": "melissa alfaro",
+          "uri": "https://www.google.com/maps/contrib/106787397435062594534/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx3V8bjMVX3kfv53e3X7tem_edIjunZqCmq_o95dYB2JFj4Lkc=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-02-05T17:00:25.727521Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBNzlfanBRRRAB&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBNzlfanBRRRAB!2m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sMlZuaG1NRkJhYjJrdFdUZG5jVkZ2YjFOMldFRRAB",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 5,
+        "text": {
+          "text": "We visited today with my son, and it was a great experience. Jorge was very informative, kind, and clear in explaining what we were observing, how the telescope is made and works, and providing a wealth of information about what we were able to see. The place is very peaceful and close to La Serena. 100% recommended, a very nice experience.",
+          "languageCode": "en-US"
+        },
+        "originalText": {
+          "text": "Lo visitamos hoy con mi hijo y fue una gran experiencia. Jorge fue muy didáctico, gentil y claro en explicarnos qué estábamos observando, cómo se compone y funciona el telescopio y un sinfín de datos sobre lo que pudimos apreciar. El lugar es muy tranquilo y cerca de La Serena. 100% recomendado, muy linda experiencia.",
+          "languageCode": "es"
+        },
+        "authorAttribution": {
+          "displayName": "Carolina Navarrete",
+          "uri": "https://www.google.com/maps/contrib/114830058778111192243/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIaOYDifPdfFKGK8piIwjs4-B25z6BkQVKzYjw78U_q5PV7g=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-06-24T07:22:31.724055957Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sMlZuaG1NRkJhYjJrdFdUZG5jVkZ2YjFOMldFRRAB&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sMlZuaG1NRkJhYjJrdFdUZG5jVkZ2YjFOMldFRRAB!2m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/reviews/ChZDSUhNMG9nS0VJQ0FnTURnbjZ6bFNBEAE",
+        "relativePublishTimeDescription": "6 months ago",
+        "rating": 5,
+        "text": {
+          "text": "I would highly recommend the astronomy experience with Jorge. My family and I had an incredible time. Jorge has a deep understanding of what he showed us through his telescope, which made the experience even more enriching. It's definitely an experience worth experiencing.",
+          "languageCode": "en-US"
+        },
+        "originalText": {
+          "text": "Quiero recomendar la experiencia astronómica con Jorge. Mi familia y yo la pasamos increíble. Jorge tiene un conocimiento profundo de lo que nos mostró a través de su telescopio, lo que hizo que la experiencia fuera aún más enriquecedora. Sin duda, es una experiencia que vale la pena vivir.\"",
+          "languageCode": "es"
+        },
+        "authorAttribution": {
+          "displayName": "Carlos Cano",
+          "uri": "https://www.google.com/maps/contrib/112106706781136527553/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdy28lSTQMfeaEXw0IAI3OKETkBw0GoWrF65gVFHhLBEaNEhW3=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2025-02-28T17:28:33.938636Z",
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnbjZ6bFNBEAE&d=17924085&t=1",
+        "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnbjZ6bFNBEAE!2m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2fJjXt1pNo3eAEJMTHfXYDONqWm9JbZhgIdbvL4fbou0NpuHzepVjcAvk2p2TXAtNvXJNPRk1sHiShSU9-_yZS4M3c4FpXJs6Vl0GeYz45WQOA7T5TyWijfkgRtY1S4BjeBqTix8eXqVgnI6euQ_C6T7RMzU9lKnkhS7Bbgquqhs95vyp7OMR2o6bj6HwsjkCUfnt_GihMilnkpO2EXlCG0nolxtvkKXy-J4US6up7wPB2ZH0SuzC9uMUrbUpNk8nuTdnnE7t_cPk3mWadnRPcDhYyF3XofzvFVI5p1210",
+        "widthPx": 500,
+        "heightPx": 500,
+        "authorAttributions": [
+          {
+            "displayName": "tour astronómico observatorio interactivo",
+            "uri": "https://maps.google.com/maps/contrib/100173084412072947820",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_Xhd_YhVkxVP3qnCxDFz73M_hVS90h5sGHJMzkEH0b_owV1I=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOppdz0PIPWuurhkfBZjYilJZipaw4slnYc-yY&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOppdz0PIPWuurhkfBZjYilJZipaw4slnYc-yY!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2clC9NmxCv30XoLHnnDz0-XRF-DxcHPJalhzReUniYBqPCwBj0TzmaU6CUJmlDLOX-lBaFx3puvcTsllUy3HzEn1RDFjh5uMQzypo9rN4HA8CqZunecoNXmhf8oZRXHKdFKL-2WEymeSm2B-JlJGgqO-SZlhkNX_UDHfBGwNOgOawqrGTEbNITYbfRt6Lfrk_D_fHMeBE-xqp7wKsp_atEbI1eIqTrsenKswyDW_CqQaLkkyAKl6VCGgT3heAQPBVWAnu1kQtPL-ePkRZvYbDXJNmzxCH6Psh039qbiBJo",
+        "widthPx": 900,
+        "heightPx": 900,
+        "authorAttributions": [
+          {
+            "displayName": "tour astronómico observatorio interactivo",
+            "uri": "https://maps.google.com/maps/contrib/100173084412072947820",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_Xhd_YhVkxVP3qnCxDFz73M_hVS90h5sGHJMzkEH0b_owV1I=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOeIAQhnRt-uKicI5AwfKZoOiuBiaHlfVR1qis&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOeIAQhnRt-uKicI5AwfKZoOiuBiaHlfVR1qis!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2dRCqC5YJwlAScQHeHPa4EaTgI42ZEeBVAX4_XunWVfWOkqez5zudBIsmd2GfzGH_gA0_PRucBmo4MEz92yox-7cPpa56capUGHHM6FYFg1xnupimWAiK6FHhhDYdXaW32HNn6kUqzC-fOHcxKt5-HsLw8jhuPBEnc1vSCqpVLTJ2dz1Hmvk0zcgwkuQJirKsn0wRre6Gmjtf8gTHuxlgrlkOf_niCHHQeUT7b-10fs3Q9LfCRtJ4gpX2CIKax7EmyZcUo-IINo9ZgUQKUKRhl0-yq8bE2oMh06Ojqj86Q",
+        "widthPx": 3469,
+        "heightPx": 4608,
+        "authorAttributions": [
+          {
+            "displayName": "tour astronómico observatorio interactivo",
+            "uri": "https://maps.google.com/maps/contrib/100173084412072947820",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_Xhd_YhVkxVP3qnCxDFz73M_hVS90h5sGHJMzkEH0b_owV1I=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNuADCjb20lhlpBk0QNvqHdTPFQEGzmew3k7Dg&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNuADCjb20lhlpBk0QNvqHdTPFQEGzmew3k7Dg!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2dhQPO4XddYHiVpVbNuafAS2UQ-qKcQbhp9TPHUWGitHBI8rxHR-42Ut-kqyJTk_eEjKjnCgOsQxWTdm8xJyPGYpemcSRI3l-3HRSkiFWANA55W1Qpp4wNK_TMfoHkaTZFpRef0HzfdAKFp5yBwFno4fxYoJMMHJ_4hgoZtAXanQtklfdUTEC86nwcT_JK3ojFGqLcNUsHSqQtbfkxZkTeel7jq7KInSqIwpCA1mSeu6SZaJGDddYbj_tgcBw01nYpDE37cdCLQWFiSjeeTofEvoMdkiIXnr7HPsZ9LOLXfVeWk0vw6dsk3uXtuJkKlBg3E26b12n64Reqb8Z6OOPFqxkx9spcQUJe9ecz9wlhK8i8KLy1sBSVSFm7pwSDfOxfY418iQqhy_klIlwZZPQO7PsPn7q25RTW7GWuXfpE",
+        "widthPx": 1280,
+        "heightPx": 963,
+        "authorAttributions": [
+          {
+            "displayName": "Bastián Andrés Ríos Carmona",
+            "uri": "https://maps.google.com/maps/contrib/108285794203770925152",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo0Cl2Nfb7qu5bDQBVRCitJzDZTUub6afbJxq3AjLRuGh45BdJ=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_hK6RVA&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_hK6RVA!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2djWrDEIHaczoURerRBxg4so1f0A_dkVP0h5zF7BH2dMA0pQY4WdZwEc4q1jdOb3E4vt8tv6xtjyW1viuxVuVa-4wUHAUETngTjRbhwYMGTjE4eJpld6Bh1Gq0fJCZkktfiOWpJqXu7xxc7ynaaMptvw6gPfYIxiz5cxzzGkZ4fkTvXh_Wwqj_mNjwS94E3VltwOYrqGgOUi1J9QHcoTR744fGJkqn_0gpb-hNgunAExuEc160VcqYNYKPldHBSAM06RQdd963EdmoMQNE8UxazhWkHikgHogxt8-G3s6cSdlteEmcXG75pqqsJSrCHnur2jFM1bejFN_lWFEuFsmD6GSnY-64cEP8Tu6TYLv4aAigqfsLrmS_1OzHcv4B_bg5ivxJQnZc8gcas0LN67DTrPR95dWVGce5yGCA1RSSd_kH7",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "melissa alfaro",
+            "uri": "https://maps.google.com/maps/contrib/106787397435062594534",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx3V8bjMVX3kfv53e3X7tem_edIjunZqCmq_o95dYB2JFj4Lkc=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA79_jlQE&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA79_jlQE!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2feQ-D6fHpaAfkLt1ZGLITjU8ji7KXFWl9q0wHI7vhucp02VzFvQAlHWKixX-pNX5ps8Orsg-6GaoQZCAk-1hSeJCK5Y_Aa3oV4bPAbkV5uJ6lJCDjXy6xIqqTq2ZhF1vWlOX2QMyt1DORmMvuz3DAPqtpy63IZFiJlofBEEg0MEUCEoLXzHncG4hUISjaEdnKU8KIOiMtHrxwmDxDaXLoVIFFunO4i6vAvDYWol-6mi-xFECao7Itnd8nj44HDdyVH9Hjhc4kb0m4DGmd6DzUJ4DXzat4Q5mShfIlpfnoNecgLXS8rBzVSid2rnXU4MCVLMtpdjVNEK1AAs87hicAuJxMY92qus06w71I4zptqpIFF3gwNLcLjKhF4ty9FyP8ZisI-17BKxDBPTuXlzBI-KiYjK27t6AVmcosJu1_Nkw",
+        "widthPx": 963,
+        "heightPx": 1280,
+        "authorAttributions": [
+          {
+            "displayName": "Bastián Andrés Ríos Carmona",
+            "uri": "https://maps.google.com/maps/contrib/108285794203770925152",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo0Cl2Nfb7qu5bDQBVRCitJzDZTUub6afbJxq3AjLRuGh45BdJ=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_hPbrdg&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_hPbrdg!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2dWL7x5WzJbhBnZ4oBVrV1lY7y14MrZkL1mBA5PNx0ylbRnSHS7vB126XPV6Vdg8W98aNneO-Lxxi0C0tDI9dzClV6_2pTOdzR9H8L4aXz6m7epcou9NfQ9F-JZmXKK83rdh62R4qUFQhJrjMqvFBKlyREf69f_tETj-X0m4UnI2MnrYwvfW0pMQXuSA71R55JV8OTBdluG0CZYrc7vb_DlYdZH1hHpYCAucCU2EOyUfB6C8VdgOzNzs3UuR1ipeS9Je2hx_02knO4ZJ98YLiVzv8_FEa6ukBYpYtYj3_5vBkN5kTSaZ9cPE9PV0RGZZge9amYrazdpmRrIM1phKjb6ifE4qP7fpVEXDlyo_fUBwsT1bL0Po1uKExB8UzO8C54rlexndAhifw4TZDdELm9A5Tz5hcgiHVYJU2O9SOBcK2Xf",
+        "widthPx": 963,
+        "heightPx": 1280,
+        "authorAttributions": [
+          {
+            "displayName": "Bastián Andrés Ríos Carmona",
+            "uri": "https://maps.google.com/maps/contrib/108285794203770925152",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo0Cl2Nfb7qu5bDQBVRCitJzDZTUub6afbJxq3AjLRuGh45BdJ=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_hK6RlAE&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_hK6RlAE!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2cyGy8YWIiE_wlbLes80alZe0lO35zWytwq7PBDCQWG0nF9fI0CULKBEjGCgfqZcrUU2QNIr93fuvY6DHjg8lzzPQFC9ZvcYggiirpoYOeUq5KyYhfkuWUCxyeBikEXKX44l2bkLd-1vpT6BhpBGAI-SObrqmW0VrXXlba4NcZaDhuW_iuyWsNUkHoLW6cuRZsvUVh0JBiFruk26ttw7lh9aReBAdrZ0Qhy3IyMBnxDuDUZ64PawGSu2eloJgu-FJjmi4_4vy_D4YjNahPW8gSV697TDY6Ep9KTl-Wyzq_c4ChmfG8uLZR4yz-W0gc-XXiLIQ9k84MN7JT3j9Fkf7H_l-YESwIZPsjTX6BSFgt6tfzW_yS_VB3yNlwYXEOrrF_HOHO87Bl01wVQwoflzL5brc9uwcu862_jEwJH_Qw",
+        "widthPx": 963,
+        "heightPx": 1280,
+        "authorAttributions": [
+          {
+            "displayName": "Bastián Andrés Ríos Carmona",
+            "uri": "https://maps.google.com/maps/contrib/108285794203770925152",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo0Cl2Nfb7qu5bDQBVRCitJzDZTUub6afbJxq3AjLRuGh45BdJ=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_hPaRVg&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_hPaRVg!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2c7jjCJ7mPSyvH-pmK5cVlxaXpn1pOxjU8C_4H1Hdw5_A6D5YWXJ_Ck_Z1i6TCEnyErS7l_L2uF_oqfVLafbr3Vba9Q5s688--m3UMwDefRSepG9A6y9d9Bxc7aE6DhNdIKK9iNvD-0z9WYNb-L1TF2FR1Mj76X4OPOfy0JEEhWUnkBdADqUwDzINvZf_kbZp11AAUPq0CmkUVvTwYoaEaLUxEqu6d1_b5T9_kDqJQopzBxRrDzzPCx_AJdu7EeJMt3OD4T9CDl-Cjn49cM8SxUDraWbYCoyH3VvGGvCu0",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "tour astronómico observatorio interactivo",
+            "uri": "https://maps.google.com/maps/contrib/100173084412072947820",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_Xhd_YhVkxVP3qnCxDFz73M_hVS90h5sGHJMzkEH0b_owV1I=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMJvihgHK7SgAWBKCviqZ0MtJc2j7pBcAq1Jvg&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMJvihgHK7SgAWBKCviqZ0MtJc2j7pBcAq1Jvg!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      },
+      {
+        "name": "places/ChIJ3TRxU9LLkZYRXaO44gu08Co/photos/AciIO2fBBI2EiEpQU0Hf3GlfZOH9ETnKP0C75QHU49c3rIvWKkkAzhsNraQ5kihvNoSgkIAnt0cTMt9KG4AyOaKyi-n2g54Z2uNA_l906pHXnZoYlKf0DuD1UDnWw_-Y52qR_dfUxpiTx-p9d2Dy_zE8IqQ74WRZMbOIJSV0ovMe9WtehxWH--M-mCajpiHSJbJrAusY1yAlM4RVlGmGHbYOUdAxZstgx6pgcLvtl7TYDIUEoN5fHRZe8aKNWAa7t43EGXRKNMzndofdgCUZIE_kwROfhCVFkn4raZy6wzENvhY",
+        "widthPx": 1080,
+        "heightPx": 819,
+        "authorAttributions": [
+          {
+            "displayName": "tour astronómico observatorio interactivo",
+            "uri": "https://maps.google.com/maps/contrib/100173084412072947820",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_Xhd_YhVkxVP3qnCxDFz73M_hVS90h5sGHJMzkEH0b_owV1I=s100-p-k-no-mo"
+          }
+        ],
+        "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLascAsz_AygOHLee7Ky2Xq_HMDhFfSsMHzIE&hl=en-US",
+        "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLascAsz_AygOHLee7Ky2Xq_HMDhFfSsMHzIE!2e10!4m2!3m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d"
+      }
+    ],
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "freeGarageParking": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true
+    },
+    "pureServiceAreaBusiness": false,
+    "addressDescriptor": {},
+    "googleMapsLinks": {
+      "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "placeUri": "https://maps.google.com/?cid=3094170907144921949&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+      "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x9691cbd2537134dd:0x2af0b40be2b8a35d!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "timeZone": {
+      "id": "America/Santiago"
+    },
+    "postalAddress": {
+      "regionCode": "CL",
+      "languageCode": "en-US",
+      "postalCode": "1701340",
+      "administrativeArea": "Coquimbo",
+      "locality": "La Serena",
+      "addressLines": [
+        "Parcela 36",
+        "ruta D 269, lote b28"
+      ]
+    }
+  }
+}
