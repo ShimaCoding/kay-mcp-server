@@ -1,6 +1,6 @@
 # Sistema de Caché para Google Maps API
 
-El servidor MCP ahora incluye un sistema de caché automático que guarda los resultados de las búsquedas de Google Maps para evitar requests duplicados y mejorar el rendimiento.
+El servidor MCP ahora incluye un sistema de caché automático que guarda los resultados de las búsquedas de Google Maps para evitar requests duplicados y mejorar el rendimiento. 
 
 ## Características del Sistema de Caché
 
