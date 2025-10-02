@@ -759,7 +759,7 @@ def analizador_de_opiniones(
         "fuente": "google_places_api",
         "fecha_analisis": datetime.now().isoformat()
     }
-    
+
     # 10. Guardar resultado en caché
     save_reviews_to_cache(place_id, resultado)
     
